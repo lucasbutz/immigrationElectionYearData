@@ -1,0 +1,193 @@
+---
+title: "Do Election Years Have an Effect on Various Immigration Statistics?"
+author: "Lucas Buchli, Jospeh Chen"
+date: today
+format: 
+  html:
+    embed-resources: true
+---
+
+```{r}
+#| echo: false
+#| output: false
+# delete hashtags below to Install packages if needed
+# install.packages("janitor")
+# install.packages(tidyverse")
+# install.packages("scales")
+# install.packages("gapminder")
+# install.packages("gganimate")
+# install.packages("GGally")
+library(tidyverse)
+library(janitor)
+library(scales)
+library(gapminder)
+library(ggplot2)
+library(gganimate)
+library(GGally)  
+
+```
+## Data Frames Preview
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code.
+
+
+```{r}
+
+US_immi <- read.csv("US Immigration Statistics (Ver 1.7.23).csv")
+US_immi |> 
+   glimpse()
+
+US_Natural <- read.csv("Week 33 - United States Naturalizations - 1999 to 2017.csv")
+US_Natural |> 
+  glimpse()
+
+
+```
+
+
+###Data Wrangling/Tidying
+
+```{r}
+#Convert data from each feature from chars into integers
+
+US_immi$Immigrants.Obtaining.Lawful.Permanent.Resident.Status <- as.integer(gsub(",", "", US_immi$Immigrants.Obtaining.Lawful.Permanent.Resident.Status))
+
+US_immi$Refugee.Arrivals <- as.integer(gsub(",", "", US_immi$Refugee.Arrivals))
+
+US_immi$Noncitizen.Apprehensions <- as.integer(gsub(",", "", US_immi$Noncitizen.Apprehensions))
+
+US_immi$Noncitizen.Removals <- as.integer(gsub(",", "", US_immi$Noncitizen.Removals))
+
+US_immi$Noncitizen.Returns <- as.integer(gsub(",", "", US_immi$Noncitizen.Returns))
+
+```
+
+```{r, warning=FALSE}
+#convert data to numeric
+US_Natural$Naturalizations <- as.numeric(gsub(",", "", US_Natural$Naturalizations))
+
+#create new df with nationalizations grouped by year
+Natural_Grouped <- US_Natural %>% 
+  group_by(Year) %>% 
+  summarise(Total_Naturals = sum(Naturalizations, na.rm = TRUE))
+
+```
+
+
+
+```{r}
+
+#add feature to show political party of winning candidate
+Natural_Grouped <- Natural_Grouped %>%
+  mutate(Political_Party_Elect = case_when(
+    Year == 2008 | Year == 2012 ~ "Democrat",
+    Year == 2000 | Year == 2004 | Year == 2016 ~ "Republican",
+    TRUE ~ "Non-Election Year"
+  ))
+
+```
+
+
+
+### Joining Data frames
+
+
+```{r}
+#join the two data frames with only the years avaible from the Naturalization data
+combined_df <- Natural_Grouped %>% 
+  right_join(US_immi %>% filter(Year >= 1999 & Year <= 2017), by = "Year")
+ 
+# add feature to US Naturalization df that tells whether a given year is an election year or not
+combined_df <- combined_df %>% mutate(Election_Year = ifelse(((Year - 1788) %% 4) == 0, TRUE, FALSE))
+
+```
+
+
+### Plots
+
+
+```{r}
+
+#Scatterplots for Removals and Returns
+
+ggplot(data = combined_df, mapping = aes(x = Year, y = Noncitizen.Removals, color = Political_Party_Elect)) +
+  geom_point() +
+  labs(alt = "Graph showing volume of non-citizen removals in the United States increase  from 1999 to around 2012 and then decrease to 2017. Highest amount of removals were democratic presidential elects",
+    title = "Volume of Noncitizen Removals",
+       y = "# of Immigrants", 
+         subtitle = "US Immigration data from 1999 to 2017.",
+         caption = "Data available at: https://www.kaggle.com/datasets/justin2028/us-immigration-statistics-1980-2021,
+       https://www.kaggle.com/datasets/thedevastator/united-states-naturalization-trends",
+       color= "    Political Party 
+       of Winner") +
+  scale_color_manual(values = c("Democrat" = "blue", "Republican" = "red", "Non-Election Year" = "green")) +
+  scale_y_continuous(labels = label_number()) +
+  theme_minimal()
+
+ggplot(data = combined_df, mapping = aes(x = Year, y = Noncitizen.Returns, color = Political_Party_Elect)) +
+  geom_point() +
+  labs(alt = "The image shows a plot of the Volume of Noncitizen Returns in the United States from 1999 to 2017. The data points are color-coded by the political party of the winner in each election year, with blue for Democrats, red for Republicans, and green for non-election years.",
+    title = "Volume of Noncitizen Returns",
+       subtitle = "US Immigration data from 1999 to 2017.",
+         caption = "Data available at: https://www.kaggle.com/datasets/justin2028/us-immigration-statistics-1980-2021,
+       https://www.kaggle.com/datasets/thedevastator/united-states-naturalization-trends",
+       y = "# of Immigrants", 
+       color= "    Political Party 
+       of Winner") +
+  scale_color_manual(values = c("Democrat" = "blue", "Republican" = "red", "Non-Election Year" = "green")) +
+  theme_minimal()
+
+```
+
+**Takeaway from Removal and Return Data:**
+
+The main takeaway from our first set of graphs is that forced removals have increased over the years, while voluntary returns have decreased. This change is likely due to stricter immigration enforcement, with more focus on deportations rather than encouraging immigrants to leave on their own. The drop in voluntary returns may also suggest that immigrants are less willing to leave because of the lives they’ve built or fear of stricter penalties if they return. This trend highlights the shift toward enforcement-heavy immigration policies.
+
+
+```{r, message=FALSE, warning=FALSE}
+
+#scatterplot with line of best fits for naturalIzations
+ggplot(data = combined_df, mapping = aes(x = Year, y = Total_Naturals, color = Election_Year, shape = Political_Party_Elect)) +
+  geom_point() +
+  labs(alt = "The image shows a graph depicting the total naturalizations in the US from 1999 to 2017, with data points indicating the political party of the winner in each election year. The graph includes a legend for TRUE and FALSE election years.",
+    title= "Total Naturalizations in the US from 1999 - 2017",
+       y = "# of Naturalizations",
+       color= "Election Year",
+       shape= "    Political Party 
+       of Winner") +
+    scale_y_continuous(labels = label_number()) +
+       geom_smooth(method=lm, mapping = aes(group = Election_Year))
+
+```
+
+**Takeaway from Naturalization Data**:
+
+The main takeaway from our graph on U.S. naturalization rates shows how the president’s political party influences naturalization trends. For example, during Democratic administrations, such as President Obama’s time in office, naturalization rates exceed the line of best fit. This is due to Democrats’ broader approach to immigration, which emphasizes inclusivity, creating pathways to citizenship, and reducing barriers for eligible immigrants. Policies like Deferred Action for Childhood Arrivals (DACA) reflect these priorities, creating a supportive environment for naturalization. In contrast, under Republican administrations, such as President Bush’s years, naturalization rates tend to fall below the line of best fit. Republicans often focus on stricter immigration enforcement and security measures, which can introduce additional challenges in the naturalization process, potentially discouraging some eligible applicants. These trends align with the core values of each party, as Democrats generally advocate for leniency and inclusion in immigration policies, while Republicans prioritize control and enforcement. However, it is essential to recognize that naturalization rates are also influenced by external factors, including legislative changes and global events, beyond the party in power.
+
+
+```{r, warning=FALSE, message=FALSE}
+
+
+ggplot(data = combined_df, mapping = aes(x = Total_Naturals, y = Election_Year)) +
+  geom_boxplot(fill = "lightblue", color = "black", outlier.color = "red", outlier.shape = 16, outlier.size = 2) +
+  labs(alt = "Boxplot showing the distribution of naturalizations in the U.S. from 1999 to 2017, separated by election years. The plot includes a light blue box for the interquartile range, black borders, and outliers marked in red. The x-axis represents the number of naturalizations, ranging from 900,000 to 2,100,000, and the y-axis indicates election years, with 'TRUE' and 'FALSE' labels representing election year status",
+      title= "Boxplot Naturalizations in the US from 1999 - 2017",
+       subtitle = "US Immigration data from 1999 to 2017.",
+         caption = "Data available at:     https://www.kaggle.com/datasets/justin2028/us-immigration-statistics-1980-2021,
+       https://www.kaggle.com/datasets/thedevastator/united-states-naturalization-trends",
+       x = "# of Naturalizations",
+       y = "Election Year") +
+  scale_x_continuous(labels = label_number()) +
+  theme_minimal() +
+  theme(plot.title = element_text(face = "bold", size = 16, hjust = 0.5),
+       plot.subtitle = element_text(hjust = 0.5),
+       plot.caption = element_text(hjust = 0.5, size = 10, face = "italic") 
+)
+
+
+```
+
+
+**Takeaway from Naturalization Boxplots:**
+
+The boxplot visualization of U.S. naturalization rates from 1999 to 2017 reveals a potential relationship between election years and the number of naturalizations. The plot distinguishes between election years (TRUE) and non-election years (FALSE). Notably, the median and interquartile range (IQR) of naturalizations appear higher in election years compared to non-election years. This suggests a tendency for increased naturalization activity around election periods. While the data shows some overlap in the ranges, the upward shift in the boxplot for election years indicates that more naturalizations, on average, are processed during these periods. This trend could be attributed to various factors, such as increased political engagement and mobilization within immigrant communities during election cycles, or potentially strategic timing of naturalization processing by administrations.

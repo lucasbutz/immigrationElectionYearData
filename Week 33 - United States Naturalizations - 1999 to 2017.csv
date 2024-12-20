@@ -1,0 +1,4019 @@
+index,Year,Type,Country or Region,Naturalizations
+0,1999,Region,Africa,20358
+1,1999,Region,Asia,273163
+2,1999,Region,Europe,100989
+3,1999,Region,North America,384385
+4,1999,Region,Oceania,2378
+5,1999,Region,South America,54205
+6,1999,Region,Unknown,1940
+7,1999,Country,Afghanistan,2747
+8,1999,Country,Albania,598
+9,1999,Country,Algeria,277
+10,1999,Country,American Samoa,75
+11,1999,Country,Angola,99
+12,1999,Country,Anguilla,165
+13,1999,Country,Antigua-Barbuda,1100
+14,1999,Country,Argentina,3351
+15,1999,Country,Armenia,3181
+16,1999,Country,Aruba,86
+17,1999,Country,Australia,342
+18,1999,Country,Austria,230
+19,1999,Country,Azerbaijan,878
+20,1999,Country,Bahamas,793
+21,1999,Country,Bahrain,32
+22,1999,Country,Bangladesh,2277
+23,1999,Country,Barbados,2551
+24,1999,Country,Belarus,1869
+25,1999,Country,Belgium,292
+26,1999,Country,Belize,2072
+27,1999,Country,Benin,35
+28,1999,Country,Bermuda,83
+29,1999,Country,Bhutan,3
+30,1999,Country,Bolivia,1456
+31,1999,Country,Bosnia-Herzegovina,300
+32,1999,Country,Botswana,4
+33,1999,Country,Brazil,4103
+34,1999,Country,Brunei,13
+35,1999,Country,Bulgaria,498
+36,1999,Country,Burkina Faso,8
+37,1999,Country,Burma,889
+38,1999,Country,Burundi,6
+39,1999,Country,Cabo Verde,0
+40,1999,Country,Cambodia,7110
+41,1999,Country,Cameroon,181
+42,1999,Country,Canada,9253
+43,1999,Country,Cayman Islands,136
+44,1999,Country,Central African Republic,4
+45,1999,Country,Chad,6
+46,1999,Country,Chile,1885
+47,1999,Country,"China, People's Republic",38347
+48,1999,Country,Colombia,13122
+49,1999,Country,"Congo, Democratic Republic",127
+50,1999,Country,"Congo, Republic",42
+51,1999,Country,Costa Rica,2081
+52,1999,Country,Cote d'Ivoire,121
+53,1999,Country,Croatia,357
+54,1999,Country,Cuba,25383
+55,1999,Country,Curacao,0
+56,1999,Country,Cyprus,188
+57,1999,Country,Czechia,0
+58,1999,Country,Czech Republic,27
+59,1999,Country,Czechoslovakia (former),546
+60,1999,Country,Denmark,233
+61,1999,Country,Djibouti,9
+62,1999,Country,Dominica,976
+63,1999,Country,Dominican Republic,23027
+64,1999,Country,Ecuador,8380
+65,1999,Country,Egypt,2680
+66,1999,Country,El Salvador,22938
+67,1999,Country,Equatorial Guinea,0
+68,1999,Country,Eritrea,566
+69,1999,Country,Estonia,82
+70,1999,Country,Ethiopia,2602
+71,1999,Country,Fiji,773
+72,1999,Country,Finland,159
+73,1999,Country,France,1897
+74,1999,Country,French Guiana,0
+75,1999,Country,French Polynesia,139
+76,1999,Country,Gabon,5
+77,1999,Country,Gambia,68
+78,1999,Country,Georgia,147
+79,1999,Country,Germany,4131
+80,1999,Country,Ghana,1546
+81,1999,Country,Greece,2347
+82,1999,Country,Grenada,1530
+83,1999,Country,Guadeloupe,61
+84,1999,Country,Guatemala,10995
+85,1999,Country,Guinea,42
+86,1999,Country,Guinea-Bissau,167
+87,1999,Country,Guyana,10347
+88,1999,Country,Haiti,19507
+89,1999,Country,Honduras,5282
+90,1999,Country,Hong Kong,6605
+91,1999,Country,Hungary,880
+92,1999,Country,Iceland,50
+93,1999,Country,India,30612
+94,1999,Country,Indonesia,1459
+95,1999,Country,Iran,18205
+96,1999,Country,Iraq,3225
+97,1999,Country,Ireland,3400
+98,1999,Country,Israel,2910
+99,1999,Country,Italy,4370
+100,1999,Country,Jamaica,28544
+101,1999,Country,Japan,3168
+102,1999,Country,Jordan,2461
+103,1999,Country,Kazakhstan,226
+104,1999,Country,Kenya,698
+105,1999,Country,"Korea, North",0
+106,1999,Country,South Korea,17663
+107,1999,Country,Kosovo,0
+108,1999,Country,Kuwait,596
+109,1999,Country,Kyrgyzstan,32
+110,1999,Country,Laos,9164
+111,1999,Country,Latvia,383
+112,1999,Country,Lebanon,4214
+113,1999,Country,Lesotho,0
+114,1999,Country,Liberia,846
+115,1999,Country,Libya,153
+116,1999,Country,Lithuania,308
+117,1999,Country,Luxembourg,15
+118,1999,Country,Macau,197
+119,1999,Country,Macedonia,212
+120,1999,Country,Madagascar,16
+121,1999,Country,Malawi,37
+122,1999,Country,Malaysia,883
+123,1999,Country,Mali,31
+124,1999,Country,Malta,93
+125,1999,Country,Marshall Islands,0
+126,1999,Country,Martinique,20
+127,1999,Country,Mauritania,12
+128,1999,Country,Mauritius,41
+129,1999,Country,Mexico,207072
+130,1999,Country,"Micronesia, Federated States",0
+131,1999,Country,Moldova,1154
+132,1999,Country,Mongolia,6
+133,1999,Country,Montenegro,0
+134,1999,Country,Montserrat,190
+135,1999,Country,Morocco,854
+136,1999,Country,Mozambique,59
+137,1999,Country,Namibia,10
+138,1999,Country,Nepal,143
+139,1999,Country,Netherlands,690
+140,1999,Country,Netherlands Antilles,88
+141,1999,Country,New Zealand,316
+142,1999,Country,Nicaragua,6636
+143,1999,Country,Niger,607
+144,1999,Country,Nigeria,3115
+145,1999,Country,Norway,159
+146,1999,Country,Oman,0
+147,1999,Country,Pakistan,6547
+148,1999,Country,Palau,19
+149,1999,Country,Panama,3080
+150,1999,Country,Papua New Guinea,3
+151,1999,Country,Paraguay,193
+152,1999,Country,Peru,8292
+153,1999,Country,Philippines,38850
+154,1999,Country,Poland,13102
+155,1999,Country,Portugal,5810
+156,1999,Country,Qatar,27
+157,1999,Country,Romania,3268
+158,1999,Country,Russia,10331
+159,1999,Country,Rwanda,9
+160,1999,Country,Saint Kitts-Nevis,993
+161,1999,Country,Saint Lucia,708
+162,1999,Country,Saint Vincent and the Grenadines,996
+163,1999,Country,Samoa,257
+164,1999,Country,Saudi Arabia,152
+165,1999,Country,Senegal,188
+166,1999,Country,Serbia,0
+167,1999,Country,Serbia and Montenegro 2,1755
+168,1999,Country,Seychelles,13
+169,1999,Country,Sierra Leone,486
+170,1999,Country,Singapore,292
+171,1999,Country,Sint Maarten,0
+172,1999,Country,Slovakia,0
+173,1999,Country,Slovak Republic,80
+174,1999,Country,Slovenia,36
+175,1999,Country,Somalia,815
+176,1999,Country,South Africa,1416
+177,1999,Country,South Sudan,0
+178,1999,Country,Soviet Union (former),11282
+179,1999,Country,Spain,1234
+180,1999,Country,Sri Lanka,880
+181,1999,Country,Sudan,281
+182,1999,Country,Suriname,130
+183,1999,Country,Swaziland,5
+184,1999,Country,Sweden,350
+185,1999,Country,Switzerland,504
+186,1999,Country,Syria,2337
+187,1999,Country,Taiwan,11185
+188,1999,Country,Tajikistan,167
+189,1999,Country,Tanzania,354
+190,1999,Country,Thailand,4026
+191,1999,Country,Togo,35
+192,1999,Country,Tonga,423
+193,1999,Country,Trinidad and Tobago,7711
+194,1999,Country,Tunisia,129
+195,1999,Country,Turkey,2017
+196,1999,Country,Turkmenistan,27
+197,1999,Country,Turks and Caicos Islands,83
+198,1999,Country,Uganda,347
+199,1999,Country,Ukraine,12184
+200,1999,Country,United Arab Emirates,44
+201,1999,Country,United Kingdom,9951
+202,1999,Country,United States,28
+203,1999,Country,Uruguay,686
+204,1999,Country,Uzbekistan,1142
+205,1999,Country,Venezuela,2258
+206,1999,Country,Vietnam,53176
+207,1999,Country,British Virgin Islands,202
+208,1999,Country,U.S. Virgin Islands,11
+209,1999,Country,Yemen,510
+210,1999,Country,Zambia,168
+211,1999,Country,Zimbabwe,172
+212,1999,Country,All other countries,71
+213,1999,Country,Unknown,1940
+214,1999,Country,Cape Verde,849
+215,2000,Region,Africa,25792
+216,2000,Region,Asia,330176
+217,2000,Region,Europe,120972
+218,2000,Region,North America,345980
+219,2000,Region,Oceania,2676
+220,2000,Region,South America,57807
+221,2000,Region,Unknown,2623
+222,2000,Country,Afghanistan,2832
+223,2000,Country,Albania,826
+224,2000,Country,Algeria,426
+225,2000,Country,American Samoa,80
+226,2000,Country,Angola,113
+227,2000,Country,Anguilla,66
+228,2000,Country,Antigua-Barbuda,938
+229,2000,Country,Argentina,3416
+230,2000,Country,Armenia,2554
+231,2000,Country,Aruba,85
+232,2000,Country,Australia,433
+233,2000,Country,Austria,289
+234,2000,Country,Azerbaijan,1315
+235,2000,Country,Bahamas,589
+236,2000,Country,Bahrain,41
+237,2000,Country,Bangladesh,3309
+238,2000,Country,Barbados,1884
+239,2000,Country,Belarus,3060
+240,2000,Country,Belgium,362
+241,2000,Country,Belize,1797
+242,2000,Country,Benin,23
+243,2000,Country,Bermuda,90
+244,2000,Country,Bhutan,0
+245,2000,Country,Bolivia,1369
+246,2000,Country,Bosnia-Herzegovina,1745
+247,2000,Country,Botswana,8
+248,2000,Country,Brazil,4510
+249,2000,Country,Brunei,15
+250,2000,Country,Bulgaria,845
+251,2000,Country,Burkina Faso,16
+252,2000,Country,Burma,1129
+253,2000,Country,Burundi,13
+254,2000,Country,Cabo Verde,0
+255,2000,Country,Cambodia,5275
+256,2000,Country,Cameroon,285
+257,2000,Country,Canada,11322
+258,2000,Country,Cayman Islands,23
+259,2000,Country,Central African Republic,4
+260,2000,Country,Chad,9
+261,2000,Country,Chile,1881
+262,2000,Country,"China, People's Republic",54443
+263,2000,Country,Colombia,13964
+264,2000,Country,"Congo, Democratic Republic",138
+265,2000,Country,"Congo, Republic",58
+266,2000,Country,Costa Rica,1887
+267,2000,Country,Cote d'Ivoire,184
+268,2000,Country,Croatia,500
+269,2000,Country,Cuba,15608
+270,2000,Country,Curacao,0
+271,2000,Country,Cyprus,204
+272,2000,Country,Czechia,0
+273,2000,Country,Czech Republic,58
+274,2000,Country,Czechoslovakia (former),654
+275,2000,Country,Denmark,285
+276,2000,Country,Djibouti,10
+277,2000,Country,Dominica,713
+278,2000,Country,Dominican Republic,25098
+279,2000,Country,Ecuador,9454
+280,2000,Country,Egypt,3486
+281,2000,Country,El Salvador,24001
+282,2000,Country,Equatorial Guinea,0
+283,2000,Country,Eritrea,823
+284,2000,Country,Estonia,108
+285,2000,Country,Ethiopia,2758
+286,2000,Country,Fiji,921
+287,2000,Country,Finland,200
+288,2000,Country,France,2278
+289,2000,Country,French Guiana,10
+290,2000,Country,French Polynesia,128
+291,2000,Country,Gabon,8
+292,2000,Country,Gambia,81
+293,2000,Country,Georgia,406
+294,2000,Country,Germany,4508
+295,2000,Country,Ghana,2032
+296,2000,Country,Greece,2252
+297,2000,Country,Grenada,1164
+298,2000,Country,Guadeloupe,32
+299,2000,Country,Guatemala,11444
+300,2000,Country,Guinea,70
+301,2000,Country,Guinea-Bissau,20
+302,2000,Country,Guyana,10794
+303,2000,Country,Haiti,14373
+304,2000,Country,Honduras,5168
+305,2000,Country,Hong Kong,8085
+306,2000,Country,Hungary,1071
+307,2000,Country,Iceland,52
+308,2000,Country,India,42092
+309,2000,Country,Indonesia,2480
+310,2000,Country,Iran,19171
+311,2000,Country,Iraq,5209
+312,2000,Country,Ireland,5448
+313,2000,Country,Israel,3573
+314,2000,Country,Italy,4425
+315,2000,Country,Jamaica,22497
+316,2000,Country,Japan,3746
+317,2000,Country,Jordan,3246
+318,2000,Country,Kazakhstan,437
+319,2000,Country,Kenya,932
+320,2000,Country,"Korea, North",0
+321,2000,Country,South Korea,23717
+322,2000,Country,Kosovo,0
+323,2000,Country,Kuwait,903
+324,2000,Country,Kyrgyzstan,87
+325,2000,Country,Laos,7129
+326,2000,Country,Latvia,484
+327,2000,Country,Lebanon,4929
+328,2000,Country,Lesotho,5
+329,2000,Country,Liberia,1022
+330,2000,Country,Libya,181
+331,2000,Country,Lithuania,354
+332,2000,Country,Luxembourg,11
+333,2000,Country,Macau,254
+334,2000,Country,Macedonia,310
+335,2000,Country,Madagascar,30
+336,2000,Country,Malawi,50
+337,2000,Country,Malaysia,1370
+338,2000,Country,Mali,48
+339,2000,Country,Malta,115
+340,2000,Country,Marshall Islands,0
+341,2000,Country,Martinique,23
+342,2000,Country,Mauritania,13
+343,2000,Country,Mauritius,60
+344,2000,Country,Mexico,189051
+345,2000,Country,"Micronesia, Federated States",3
+346,2000,Country,Moldova,1573
+347,2000,Country,Mongolia,15
+348,2000,Country,Montenegro,0
+349,2000,Country,Montserrat,128
+350,2000,Country,Morocco,1197
+351,2000,Country,Mozambique,68
+352,2000,Country,Namibia,13
+353,2000,Country,Nepal,203
+354,2000,Country,Netherlands,807
+355,2000,Country,Netherlands Antilles,78
+356,2000,Country,New Zealand,421
+357,2000,Country,Nicaragua,5413
+358,2000,Country,Niger,554
+359,2000,Country,Nigeria,4128
+360,2000,Country,Norway,191
+361,2000,Country,Oman,6
+362,2000,Country,Pakistan,8706
+363,2000,Country,Palau,17
+364,2000,Country,Panama,2906
+365,2000,Country,Papua New Guinea,7
+366,2000,Country,Paraguay,214
+367,2000,Country,Peru,8927
+368,2000,Country,Philippines,46442
+369,2000,Country,Poland,16363
+370,2000,Country,Portugal,4728
+371,2000,Country,Qatar,35
+372,2000,Country,Romania,3577
+373,2000,Country,Russia,12898
+374,2000,Country,Rwanda,31
+375,2000,Country,Saint Kitts-Nevis,702
+376,2000,Country,Saint Lucia,600
+377,2000,Country,Saint Vincent and the Grenadines,824
+378,2000,Country,Samoa,281
+379,2000,Country,Saudi Arabia,309
+380,2000,Country,Senegal,218
+381,2000,Country,Serbia,0
+382,2000,Country,Serbia and Montenegro 2,2188
+383,2000,Country,Seychelles,27
+384,2000,Country,Sierra Leone,600
+385,2000,Country,Singapore,404
+386,2000,Country,Sint Maarten,0
+387,2000,Country,Slovakia,0
+388,2000,Country,Slovak Republic,200
+389,2000,Country,Slovenia,43
+390,2000,Country,Somalia,1245
+391,2000,Country,South Africa,1965
+392,2000,Country,South Sudan,0
+393,2000,Country,Soviet Union (former),9174
+394,2000,Country,Spain,1066
+395,2000,Country,Sri Lanka,998
+396,2000,Country,Sudan,514
+397,2000,Country,Suriname,161
+398,2000,Country,Swaziland,11
+399,2000,Country,Sweden,369
+400,2000,Country,Switzerland,652
+401,2000,Country,Syria,2793
+402,2000,Country,Taiwan,13163
+403,2000,Country,Tajikistan,406
+404,2000,Country,Tanzania,419
+405,2000,Country,Thailand,5197
+406,2000,Country,Togo,58
+407,2000,Country,Tonga,365
+408,2000,Country,Trinidad and Tobago,7239
+409,2000,Country,Tunisia,167
+410,2000,Country,Turkey,2069
+411,2000,Country,Turkmenistan,73
+412,2000,Country,Turks and Caicos Islands,43
+413,2000,Country,Uganda,429
+414,2000,Country,Ukraine,16833
+415,2000,Country,United Arab Emirates,79
+416,2000,Country,United Kingdom,11704
+417,2000,Country,United States,44
+418,2000,Country,Uruguay,688
+419,2000,Country,Uzbekistan,3078
+420,2000,Country,Venezuela,2418
+421,2000,Country,Vietnam,55769
+422,2000,Country,British Virgin Islands,134
+423,2000,Country,U.S. Virgin Islands,12
+424,2000,Country,Yemen,832
+425,2000,Country,Zambia,227
+426,2000,Country,Zimbabwe,274
+427,2000,Country,All other countries,43
+428,2000,Country,Unknown,2623
+429,2000,Country,Cape Verde,732
+430,2001,Region,Africa,24255
+431,2001,Region,Asia,246516
+432,2001,Region,Europe,89210
+433,2001,Region,North America,200089
+434,2001,Region,Oceania,2585
+435,2001,Region,South America,42155
+436,2001,Region,Unknown,1449
+437,2001,Country,Afghanistan,1938
+438,2001,Country,Albania,1032
+439,2001,Country,Algeria,469
+440,2001,Country,American Samoa,97
+441,2001,Country,Angola,85
+442,2001,Country,Anguilla,38
+443,2001,Country,Antigua-Barbuda,477
+444,2001,Country,Argentina,2204
+445,2001,Country,Armenia,1968
+446,2001,Country,Aruba,41
+447,2001,Country,Australia,391
+448,2001,Country,Austria,270
+449,2001,Country,Azerbaijan,946
+450,2001,Country,Bahamas,392
+451,2001,Country,Bahrain,47
+452,2001,Country,Bangladesh,4416
+453,2001,Country,Barbados,906
+454,2001,Country,Belarus,2006
+455,2001,Country,Belgium,296
+456,2001,Country,Belize,1014
+457,2001,Country,Benin,19
+458,2001,Country,Bermuda,58
+459,2001,Country,Bhutan,4
+460,2001,Country,Bolivia,905
+461,2001,Country,Bosnia-Herzegovina,2756
+462,2001,Country,Botswana,7
+463,2001,Country,Brazil,3925
+464,2001,Country,Brunei,8
+465,2001,Country,Bulgaria,1169
+466,2001,Country,Burkina Faso,10
+467,2001,Country,Burma,1076
+468,2001,Country,Burundi,15
+469,2001,Country,Cabo Verde,0
+470,2001,Country,Cambodia,3460
+471,2001,Country,Cameroon,299
+472,2001,Country,Canada,7528
+473,2001,Country,Cayman Islands,15
+474,2001,Country,Central African Republic,3
+475,2001,Country,Chad,12
+476,2001,Country,Chile,1200
+477,2001,Country,"China, People's Republic",34353
+478,2001,Country,Colombia,10826
+479,2001,Country,"Congo, Democratic Republic",115
+480,2001,Country,"Congo, Republic",90
+481,2001,Country,Costa Rica,1138
+482,2001,Country,Cote d'Ivoire,171
+483,2001,Country,Croatia,516
+484,2001,Country,Cuba,11343
+485,2001,Country,Curacao,0
+486,2001,Country,Cyprus,185
+487,2001,Country,Czechia,0
+488,2001,Country,Czech Republic,47
+489,2001,Country,Czechoslovakia (former),489
+490,2001,Country,Denmark,226
+491,2001,Country,Djibouti,9
+492,2001,Country,Dominica,370
+493,2001,Country,Dominican Republic,14958
+494,2001,Country,Ecuador,6547
+495,2001,Country,Egypt,3779
+496,2001,Country,El Salvador,13613
+497,2001,Country,Equatorial Guinea,0
+498,2001,Country,Eritrea,755
+499,2001,Country,Estonia,105
+500,2001,Country,Ethiopia,2756
+501,2001,Country,Fiji,1175
+502,2001,Country,Finland,114
+503,2001,Country,France,1742
+504,2001,Country,French Guiana,0
+505,2001,Country,French Polynesia,41
+506,2001,Country,Gabon,5
+507,2001,Country,Gambia,69
+508,2001,Country,Georgia,415
+509,2001,Country,Germany,3200
+510,2001,Country,Ghana,1828
+511,2001,Country,Greece,1661
+512,2001,Country,Grenada,609
+513,2001,Country,Guadeloupe,14
+514,2001,Country,Guatemala,6257
+515,2001,Country,Guinea,67
+516,2001,Country,Guinea-Bissau,6
+517,2001,Country,Guyana,7038
+518,2001,Country,Haiti,10355
+519,2001,Country,Honduras,3248
+520,2001,Country,Hong Kong,5269
+521,2001,Country,Hungary,873
+522,2001,Country,Iceland,44
+523,2001,Country,India,34240
+524,2001,Country,Indonesia,1242
+525,2001,Country,Iran,13834
+526,2001,Country,Iraq,3443
+527,2001,Country,Ireland,4437
+528,2001,Country,Israel,2970
+529,2001,Country,Italy,2972
+530,2001,Country,Jamaica,13947
+531,2001,Country,Japan,2362
+532,2001,Country,Jordan,2876
+533,2001,Country,Kazakhstan,429
+534,2001,Country,Kenya,731
+535,2001,Country,"Korea, North",0
+536,2001,Country,South Korea,17979
+537,2001,Country,Kosovo,0
+538,2001,Country,Kuwait,766
+539,2001,Country,Kyrgyzstan,81
+540,2001,Country,Laos,6469
+541,2001,Country,Latvia,359
+542,2001,Country,Lebanon,3550
+543,2001,Country,Lesotho,3
+544,2001,Country,Liberia,778
+545,2001,Country,Libya,171
+546,2001,Country,Lithuania,402
+547,2001,Country,Luxembourg,9
+548,2001,Country,Macau,199
+549,2001,Country,Macedonia,394
+550,2001,Country,Madagascar,25
+551,2001,Country,Malawi,39
+552,2001,Country,Malaysia,1032
+553,2001,Country,Mali,51
+554,2001,Country,Malta,63
+555,2001,Country,Marshall Islands,3
+556,2001,Country,Martinique,21
+557,2001,Country,Mauritania,19
+558,2001,Country,Mauritius,38
+559,2001,Country,Mexico,102736
+560,2001,Country,"Micronesia, Federated States",4
+561,2001,Country,Moldova,955
+562,2001,Country,Mongolia,9
+563,2001,Country,Montenegro,0
+564,2001,Country,Montserrat,86
+565,2001,Country,Morocco,1247
+566,2001,Country,Mozambique,29
+567,2001,Country,Namibia,15
+568,2001,Country,Nepal,205
+569,2001,Country,Netherlands,546
+570,2001,Country,Netherlands Antilles,34
+571,2001,Country,New Zealand,345
+572,2001,Country,Nicaragua,3549
+573,2001,Country,Niger,183
+574,2001,Country,Nigeria,4349
+575,2001,Country,Norway,126
+576,2001,Country,Oman,8
+577,2001,Country,Pakistan,8367
+578,2001,Country,Palau,7
+579,2001,Country,Panama,1577
+580,2001,Country,Papua New Guinea,7
+581,2001,Country,Paraguay,165
+582,2001,Country,Peru,6659
+583,2001,Country,Philippines,35347
+584,2001,Country,Poland,11625
+585,2001,Country,Portugal,2762
+586,2001,Country,Qatar,37
+587,2001,Country,Romania,3512
+588,2001,Country,Russia,9395
+589,2001,Country,Rwanda,60
+590,2001,Country,Saint Kitts-Nevis,331
+591,2001,Country,Saint Lucia,392
+592,2001,Country,Saint Vincent and the Grenadines,439
+593,2001,Country,Samoa,194
+594,2001,Country,Saudi Arabia,247
+595,2001,Country,Senegal,250
+596,2001,Country,Serbia,0
+597,2001,Country,Serbia and Montenegro 2,2076
+598,2001,Country,Seychelles,18
+599,2001,Country,Sierra Leone,516
+600,2001,Country,Singapore,306
+601,2001,Country,Sint Maarten,0
+602,2001,Country,Slovakia,0
+603,2001,Country,Slovak Republic,243
+604,2001,Country,Slovenia,42
+605,2001,Country,Somalia,1167
+606,2001,Country,South Africa,1468
+607,2001,Country,South Sudan,0
+608,2001,Country,Soviet Union (former),4563
+609,2001,Country,Spain,722
+610,2001,Country,Sri Lanka,835
+611,2001,Country,Sudan,739
+612,2001,Country,Suriname,111
+613,2001,Country,Swaziland,3
+614,2001,Country,Sweden,321
+615,2001,Country,Switzerland,516
+616,2001,Country,Syria,2151
+617,2001,Country,Taiwan,9052
+618,2001,Country,Tajikistan,368
+619,2001,Country,Tanzania,333
+620,2001,Country,Thailand,4088
+621,2001,Country,Togo,57
+622,2001,Country,Tonga,301
+623,2001,Country,Trinidad and Tobago,4474
+624,2001,Country,Tunisia,157
+625,2001,Country,Turkey,1792
+626,2001,Country,Turkmenistan,60
+627,2001,Country,Turks and Caicos Islands,39
+628,2001,Country,Uganda,296
+629,2001,Country,Ukraine,11819
+630,2001,Country,United Arab Emirates,84
+631,2001,Country,United Kingdom,8038
+632,2001,Country,United States,38
+633,2001,Country,Uruguay,471
+634,2001,Country,Uzbekistan,2492
+635,2001,Country,Venezuela,2103
+636,2001,Country,Vietnam,41462
+637,2001,Country,British Virgin Islands,48
+638,2001,Country,U.S. Virgin Islands,0
+639,2001,Country,Yemen,807
+640,2001,Country,Zambia,158
+641,2001,Country,Zimbabwe,206
+642,2001,Country,All other countries,34
+643,2001,Country,Unknown,1449
+644,2001,Country,Cape Verde,577
+645,2002,Region,Africa,31489
+646,2002,Region,Asia,231990
+647,2002,Region,Europe,93515
+648,2002,Region,North America,169548
+649,2002,Region,Oceania,2348
+650,2002,Region,South America,42812
+651,2002,Region,Unknown,944
+652,2002,Country,Afghanistan,1424
+653,2002,Country,Albania,2450
+654,2002,Country,Algeria,615
+655,2002,Country,American Samoa,102
+656,2002,Country,Angola,68
+657,2002,Country,Anguilla,30
+658,2002,Country,Antigua-Barbuda,450
+659,2002,Country,Argentina,2129
+660,2002,Country,Armenia,1814
+661,2002,Country,Aruba,49
+662,2002,Country,Australia,424
+663,2002,Country,Austria,275
+664,2002,Country,Azerbaijan,1187
+665,2002,Country,Bahamas,401
+666,2002,Country,Bahrain,47
+667,2002,Country,Bangladesh,5626
+668,2002,Country,Barbados,871
+669,2002,Country,Belarus,2141
+670,2002,Country,Belgium,265
+671,2002,Country,Belize,771
+672,2002,Country,Benin,25
+673,2002,Country,Bermuda,47
+674,2002,Country,Bhutan,0
+675,2002,Country,Bolivia,1098
+676,2002,Country,Bosnia-Herzegovina,4092
+677,2002,Country,Botswana,4
+678,2002,Country,Brazil,3885
+679,2002,Country,Brunei,12
+680,2002,Country,Bulgaria,1310
+681,2002,Country,Burkina Faso,7
+682,2002,Country,Burma,1069
+683,2002,Country,Burundi,28
+684,2002,Country,Cabo Verde,0
+685,2002,Country,Cambodia,3113
+686,2002,Country,Cameroon,461
+687,2002,Country,Canada,7581
+688,2002,Country,Cayman Islands,17
+689,2002,Country,Central African Republic,10
+690,2002,Country,Chad,3
+691,2002,Country,Chile,1148
+692,2002,Country,"China, People's Republic",31987
+693,2002,Country,Colombia,10601
+694,2002,Country,"Congo, Democratic Republic",116
+695,2002,Country,"Congo, Republic",139
+696,2002,Country,Costa Rica,1000
+697,2002,Country,Cote d'Ivoire,271
+698,2002,Country,Croatia,620
+699,2002,Country,Cuba,10857
+700,2002,Country,Curacao,0
+701,2002,Country,Cyprus,150
+702,2002,Country,Czechia,0
+703,2002,Country,Czech Republic,64
+704,2002,Country,Czechoslovakia (former),453
+705,2002,Country,Denmark,194
+706,2002,Country,Djibouti,18
+707,2002,Country,Dominica,456
+708,2002,Country,Dominican Republic,15562
+709,2002,Country,Ecuador,6392
+710,2002,Country,Egypt,3698
+711,2002,Country,El Salvador,10699
+712,2002,Country,Equatorial Guinea,0
+713,2002,Country,Eritrea,809
+714,2002,Country,Estonia,110
+715,2002,Country,Ethiopia,3892
+716,2002,Country,Fiji,1020
+717,2002,Country,Finland,140
+718,2002,Country,France,1718
+719,2002,Country,French Guiana,6
+720,2002,Country,French Polynesia,16
+721,2002,Country,Gabon,12
+722,2002,Country,Gambia,135
+723,2002,Country,Georgia,444
+724,2002,Country,Germany,3424
+725,2002,Country,Ghana,3326
+726,2002,Country,Greece,1285
+727,2002,Country,Grenada,607
+728,2002,Country,Guadeloupe,25
+729,2002,Country,Guatemala,5442
+730,2002,Country,Guinea,111
+731,2002,Country,Guinea-Bissau,14
+732,2002,Country,Guyana,7220
+733,2002,Country,Haiti,9268
+734,2002,Country,Honduras,3496
+735,2002,Country,Hong Kong,4849
+736,2002,Country,Hungary,827
+737,2002,Country,Iceland,32
+738,2002,Country,India,33737
+739,2002,Country,Indonesia,1003
+740,2002,Country,Iran,11773
+741,2002,Country,Iraq,3314
+742,2002,Country,Ireland,3438
+743,2002,Country,Israel,2556
+744,2002,Country,Italy,2614
+745,2002,Country,Jamaica,13949
+746,2002,Country,Japan,1857
+747,2002,Country,Jordan,2821
+748,2002,Country,Kazakhstan,562
+749,2002,Country,Kenya,865
+750,2002,Country,"Korea, North",0
+751,2002,Country,South Korea,17252
+752,2002,Country,Kosovo,0
+753,2002,Country,Kuwait,791
+754,2002,Country,Kyrgyzstan,128
+755,2002,Country,Laos,8363
+756,2002,Country,Latvia,376
+757,2002,Country,Lebanon,3402
+758,2002,Country,Lesotho,5
+759,2002,Country,Liberia,1047
+760,2002,Country,Libya,163
+761,2002,Country,Lithuania,489
+762,2002,Country,Luxembourg,8
+763,2002,Country,Macau,196
+764,2002,Country,Macedonia,559
+765,2002,Country,Madagascar,29
+766,2002,Country,Malawi,44
+767,2002,Country,Malaysia,1092
+768,2002,Country,Mali,72
+769,2002,Country,Malta,85
+770,2002,Country,Marshall Islands,0
+771,2002,Country,Martinique,16
+772,2002,Country,Mauritania,23
+773,2002,Country,Mauritius,37
+774,2002,Country,Mexico,76310
+775,2002,Country,"Micronesia, Federated States",6
+776,2002,Country,Moldova,919
+777,2002,Country,Mongolia,13
+778,2002,Country,Montenegro,0
+779,2002,Country,Montserrat,84
+780,2002,Country,Morocco,1274
+781,2002,Country,Mozambique,57
+782,2002,Country,Namibia,13
+783,2002,Country,Nepal,247
+784,2002,Country,Netherlands,512
+785,2002,Country,Netherlands Antilles,28
+786,2002,Country,New Zealand,356
+787,2002,Country,Nicaragua,3788
+788,2002,Country,Niger,110
+789,2002,Country,Nigeria,6412
+790,2002,Country,Norway,108
+791,2002,Country,Oman,9
+792,2002,Country,Pakistan,8643
+793,2002,Country,Palau,9
+794,2002,Country,Panama,1591
+795,2002,Country,Papua New Guinea,7
+796,2002,Country,Paraguay,198
+797,2002,Country,Peru,7375
+798,2002,Country,Philippines,30440
+799,2002,Country,Poland,12811
+800,2002,Country,Portugal,2187
+801,2002,Country,Qatar,48
+802,2002,Country,Romania,4014
+803,2002,Country,Russia,9841
+804,2002,Country,Rwanda,86
+805,2002,Country,Saint Kitts-Nevis,351
+806,2002,Country,Saint Lucia,417
+807,2002,Country,Saint Vincent and the Grenadines,461
+808,2002,Country,Samoa,150
+809,2002,Country,Saudi Arabia,309
+810,2002,Country,Senegal,346
+811,2002,Country,Serbia,0
+812,2002,Country,Serbia and Montenegro 2,2302
+813,2002,Country,Seychelles,12
+814,2002,Country,Sierra Leone,763
+815,2002,Country,Singapore,322
+816,2002,Country,Sint Maarten,0
+817,2002,Country,Slovakia,0
+818,2002,Country,Slovak Republic,301
+819,2002,Country,Slovenia,58
+820,2002,Country,Somalia,1789
+821,2002,Country,South Africa,1526
+822,2002,Country,South Sudan,0
+823,2002,Country,Soviet Union (former),4302
+824,2002,Country,Spain,631
+825,2002,Country,Sri Lanka,961
+826,2002,Country,Sudan,1012
+827,2002,Country,Suriname,119
+828,2002,Country,Swaziland,8
+829,2002,Country,Sweden,819
+830,2002,Country,Switzerland,462
+831,2002,Country,Syria,2278
+832,2002,Country,Taiwan,8599
+833,2002,Country,Tajikistan,234
+834,2002,Country,Tanzania,345
+835,2002,Country,Thailand,4013
+836,2002,Country,Togo,113
+837,2002,Country,Tonga,246
+838,2002,Country,Trinidad and Tobago,4814
+839,2002,Country,Tunisia,165
+840,2002,Country,Turkey,1924
+841,2002,Country,Turkmenistan,65
+842,2002,Country,Turks and Caicos Islands,18
+843,2002,Country,Uganda,321
+844,2002,Country,Ukraine,12106
+845,2002,Country,United Arab Emirates,109
+846,2002,Country,United Kingdom,8194
+847,2002,Country,United States,42
+848,2002,Country,Uruguay,485
+849,2002,Country,Uzbekistan,2541
+850,2002,Country,Venezuela,2156
+851,2002,Country,Vietnam,36757
+852,2002,Country,British Virgin Islands,40
+853,2002,Country,U.S. Virgin Islands,7
+854,2002,Country,Yemen,882
+855,2002,Country,Zambia,168
+856,2002,Country,Zimbabwe,231
+857,2002,Country,All other countries,26
+858,2002,Country,Unknown,944
+859,2002,Country,Cape Verde,683
+860,2003,Region,Africa,28529
+861,2003,Region,Asia,191761
+862,2003,Region,Europe,74113
+863,2003,Region,North America,130551
+864,2003,Region,Oceania,2889
+865,2003,Region,South America,33635
+866,2003,Region,Unknown,957
+867,2003,Country,Afghanistan,1235
+868,2003,Country,Albania,2284
+869,2003,Country,Algeria,493
+870,2003,Country,American Samoa,117
+871,2003,Country,Angola,64
+872,2003,Country,Anguilla,24
+873,2003,Country,Antigua-Barbuda,325
+874,2003,Country,Argentina,1879
+875,2003,Country,Armenia,1673
+876,2003,Country,Aruba,28
+877,2003,Country,Australia,882
+878,2003,Country,Austria,240
+879,2003,Country,Azerbaijan,886
+880,2003,Country,Bahamas,342
+881,2003,Country,Bahrain,31
+882,2003,Country,Bangladesh,4345
+883,2003,Country,Barbados,663
+884,2003,Country,Belarus,1224
+885,2003,Country,Belgium,250
+886,2003,Country,Belize,665
+887,2003,Country,Benin,27
+888,2003,Country,Bermuda,38
+889,2003,Country,Bhutan,0
+890,2003,Country,Bolivia,932
+891,2003,Country,Bosnia-Herzegovina,4993
+892,2003,Country,Botswana,12
+893,2003,Country,Brazil,3091
+894,2003,Country,Brunei,9
+895,2003,Country,Bulgaria,1599
+896,2003,Country,Burkina Faso,12
+897,2003,Country,Burma,905
+898,2003,Country,Burundi,21
+899,2003,Country,Cabo Verde,0
+900,2003,Country,Cambodia,3135
+901,2003,Country,Cameroon,534
+902,2003,Country,Canada,6399
+903,2003,Country,Cayman Islands,7
+904,2003,Country,Central African Republic,6
+905,2003,Country,Chad,24
+906,2003,Country,Chile,1073
+907,2003,Country,"China, People's Republic",23991
+908,2003,Country,Colombia,7939
+909,2003,Country,"Congo, Democratic Republic",101
+910,2003,Country,"Congo, Republic",123
+911,2003,Country,Costa Rica,868
+912,2003,Country,Cote d'Ivoire,264
+913,2003,Country,Croatia,615
+914,2003,Country,Cuba,7698
+915,2003,Country,Curacao,0
+916,2003,Country,Cyprus,100
+917,2003,Country,Czechia,0
+918,2003,Country,Czech Republic,50
+919,2003,Country,Czechoslovakia (former),333
+920,2003,Country,Denmark,197
+921,2003,Country,Djibouti,16
+922,2003,Country,Dominica,361
+923,2003,Country,Dominican Republic,12607
+924,2003,Country,Ecuador,5061
+925,2003,Country,Egypt,2922
+926,2003,Country,El Salvador,8719
+927,2003,Country,Equatorial Guinea,0
+928,2003,Country,Eritrea,819
+929,2003,Country,Estonia,102
+930,2003,Country,Ethiopia,3820
+931,2003,Country,Fiji,1206
+932,2003,Country,Finland,118
+933,2003,Country,France,1476
+934,2003,Country,French Guiana,0
+935,2003,Country,French Polynesia,9
+936,2003,Country,Gabon,11
+937,2003,Country,Gambia,113
+938,2003,Country,Georgia,416
+939,2003,Country,Germany,3192
+940,2003,Country,Ghana,2831
+941,2003,Country,Greece,933
+942,2003,Country,Grenada,524
+943,2003,Country,Guadeloupe,18
+944,2003,Country,Guatemala,4551
+945,2003,Country,Guinea,81
+946,2003,Country,Guinea-Bissau,15
+947,2003,Country,Guyana,4929
+948,2003,Country,Haiti,7247
+949,2003,Country,Honduras,3004
+950,2003,Country,Hong Kong,3752
+951,2003,Country,Hungary,618
+952,2003,Country,Iceland,41
+953,2003,Country,India,29761
+954,2003,Country,Indonesia,963
+955,2003,Country,Iran,10782
+956,2003,Country,Iraq,2209
+957,2003,Country,Ireland,2583
+958,2003,Country,Israel,2036
+959,2003,Country,Italy,1845
+960,2003,Country,Jamaica,11218
+961,2003,Country,Japan,1795
+962,2003,Country,Jordan,1917
+963,2003,Country,Kazakhstan,455
+964,2003,Country,Kenya,823
+965,2003,Country,"Korea, North",0
+966,2003,Country,South Korea,15928
+967,2003,Country,Kosovo,0
+968,2003,Country,Kuwait,606
+969,2003,Country,Kyrgyzstan,131
+970,2003,Country,Laos,5841
+971,2003,Country,Latvia,224
+972,2003,Country,Lebanon,2499
+973,2003,Country,Lesotho,6
+974,2003,Country,Liberia,917
+975,2003,Country,Libya,112
+976,2003,Country,Lithuania,457
+977,2003,Country,Luxembourg,9
+978,2003,Country,Macau,115
+979,2003,Country,Macedonia,376
+980,2003,Country,Madagascar,22
+981,2003,Country,Malawi,25
+982,2003,Country,Malaysia,983
+983,2003,Country,Mali,64
+984,2003,Country,Malta,61
+985,2003,Country,Marshall Islands,4
+986,2003,Country,Martinique,10
+987,2003,Country,Mauritania,29
+988,2003,Country,Mauritius,42
+989,2003,Country,Mexico,55946
+990,2003,Country,"Micronesia, Federated States",6
+991,2003,Country,Moldova,713
+992,2003,Country,Mongolia,17
+993,2003,Country,Montenegro,0
+994,2003,Country,Montserrat,64
+995,2003,Country,Morocco,1283
+996,2003,Country,Mozambique,32
+997,2003,Country,Namibia,13
+998,2003,Country,Nepal,318
+999,2003,Country,Netherlands,500
+1000,2003,Country,Netherlands Antilles,19
+1001,2003,Country,New Zealand,340
+1002,2003,Country,Nicaragua,3044
+1003,2003,Country,Niger,46
+1004,2003,Country,Nigeria,5691
+1005,2003,Country,Norway,93
+1006,2003,Country,Oman,16
+1007,2003,Country,Pakistan,7424
+1008,2003,Country,Palau,12
+1009,2003,Country,Panama,1248
+1010,2003,Country,Papua New Guinea,3
+1011,2003,Country,Paraguay,175
+1012,2003,Country,Peru,6130
+1013,2003,Country,Philippines,29043
+1014,2003,Country,Poland,9139
+1015,2003,Country,Portugal,2034
+1016,2003,Country,Qatar,34
+1017,2003,Country,Romania,3267
+1018,2003,Country,Russia,6669
+1019,2003,Country,Rwanda,77
+1020,2003,Country,Saint Kitts-Nevis,321
+1021,2003,Country,Saint Lucia,366
+1022,2003,Country,Saint Vincent and the Grenadines,374
+1023,2003,Country,Samoa,117
+1024,2003,Country,Saudi Arabia,251
+1025,2003,Country,Senegal,274
+1026,2003,Country,Serbia,0
+1027,2003,Country,Serbia and Montenegro 2,2012
+1028,2003,Country,Seychelles,15
+1029,2003,Country,Sierra Leone,777
+1030,2003,Country,Singapore,273
+1031,2003,Country,Sint Maarten,0
+1032,2003,Country,Slovakia,0
+1033,2003,Country,Slovak Republic,286
+1034,2003,Country,Slovenia,43
+1035,2003,Country,Somalia,2235
+1036,2003,Country,South Africa,1262
+1037,2003,Country,South Sudan,0
+1038,2003,Country,Soviet Union (former),3437
+1039,2003,Country,Spain,552
+1040,2003,Country,Sri Lanka,827
+1041,2003,Country,Sudan,839
+1042,2003,Country,Suriname,120
+1043,2003,Country,Swaziland,7
+1044,2003,Country,Sweden,948
+1045,2003,Country,Switzerland,430
+1046,2003,Country,Syria,1881
+1047,2003,Country,Taiwan,6742
+1048,2003,Country,Tajikistan,127
+1049,2003,Country,Tanzania,295
+1050,2003,Country,Thailand,3636
+1051,2003,Country,Togo,153
+1052,2003,Country,Tonga,182
+1053,2003,Country,Trinidad and Tobago,3774
+1054,2003,Country,Tunisia,119
+1055,2003,Country,Turkey,1724
+1056,2003,Country,Turkmenistan,43
+1057,2003,Country,Turks and Caicos Islands,15
+1058,2003,Country,Uganda,279
+1059,2003,Country,Ukraine,8236
+1060,2003,Country,United Arab Emirates,112
+1061,2003,Country,United Kingdom,6717
+1062,2003,Country,United States,37
+1063,2003,Country,Uruguay,352
+1064,2003,Country,Uzbekistan,1480
+1065,2003,Country,Venezuela,1952
+1066,2003,Country,Vietnam,25933
+1067,2003,Country,British Virgin Islands,22
+1068,2003,Country,U.S. Virgin Islands,4
+1069,2003,Country,Yemen,589
+1070,2003,Country,Zambia,134
+1071,2003,Country,Zimbabwe,210
+1072,2003,Country,All other countries,28
+1073,2003,Country,Unknown,957
+1074,2003,Country,Cape Verde,429
+1075,2004,Region,Africa,34531
+1076,2004,Region,Asia,218974
+1077,2004,Region,Europe,89014
+1078,2004,Region,North America,151047
+1079,2004,Region,Oceania,3551
+1080,2004,Region,South America,38676
+1081,2004,Region,Unknown,1358
+1082,2004,Country,Afghanistan,1323
+1083,2004,Country,Albania,3324
+1084,2004,Country,Algeria,616
+1085,2004,Country,American Samoa,137
+1086,2004,Country,Angola,87
+1087,2004,Country,Anguilla,18
+1088,2004,Country,Antigua-Barbuda,357
+1089,2004,Country,Argentina,1965
+1090,2004,Country,Armenia,1793
+1091,2004,Country,Aruba,30
+1092,2004,Country,Australia,1295
+1093,2004,Country,Austria,277
+1094,2004,Country,Azerbaijan,793
+1095,2004,Country,Bahamas,378
+1096,2004,Country,Bahrain,54
+1097,2004,Country,Bangladesh,5148
+1098,2004,Country,Barbados,650
+1099,2004,Country,Belarus,1464
+1100,2004,Country,Belgium,232
+1101,2004,Country,Belize,664
+1102,2004,Country,Benin,42
+1103,2004,Country,Bermuda,47
+1104,2004,Country,Bhutan,3
+1105,2004,Country,Bolivia,1125
+1106,2004,Country,Bosnia-Herzegovina,8013
+1107,2004,Country,Botswana,5
+1108,2004,Country,Brazil,4074
+1109,2004,Country,Brunei,10
+1110,2004,Country,Bulgaria,2487
+1111,2004,Country,Burkina Faso,19
+1112,2004,Country,Burma,1177
+1113,2004,Country,Burundi,59
+1114,2004,Country,Cabo Verde,0
+1115,2004,Country,Cambodia,3975
+1116,2004,Country,Cameroon,575
+1117,2004,Country,Canada,7682
+1118,2004,Country,Cayman Islands,9
+1119,2004,Country,Central African Republic,5
+1120,2004,Country,Chad,27
+1121,2004,Country,Chile,1142
+1122,2004,Country,"China, People's Republic",27309
+1123,2004,Country,Colombia,9819
+1124,2004,Country,"Congo, Democratic Republic",88
+1125,2004,Country,"Congo, Republic",163
+1126,2004,Country,Costa Rica,970
+1127,2004,Country,Cote d'Ivoire,317
+1128,2004,Country,Croatia,1084
+1129,2004,Country,Cuba,11236
+1130,2004,Country,Curacao,0
+1131,2004,Country,Cyprus,104
+1132,2004,Country,Czechia,0
+1133,2004,Country,Czech Republic,69
+1134,2004,Country,Czechoslovakia (former),434
+1135,2004,Country,Denmark,175
+1136,2004,Country,Djibouti,12
+1137,2004,Country,Dominica,441
+1138,2004,Country,Dominican Republic,15464
+1139,2004,Country,Ecuador,5616
+1140,2004,Country,Egypt,3726
+1141,2004,Country,El Salvador,9602
+1142,2004,Country,Equatorial Guinea,0
+1143,2004,Country,Eritrea,829
+1144,2004,Country,Estonia,126
+1145,2004,Country,Ethiopia,4255
+1146,2004,Country,Fiji,1267
+1147,2004,Country,Finland,352
+1148,2004,Country,France,1802
+1149,2004,Country,French Guiana,6
+1150,2004,Country,French Polynesia,10
+1151,2004,Country,Gabon,12
+1152,2004,Country,Gambia,136
+1153,2004,Country,Georgia,382
+1154,2004,Country,Germany,3836
+1155,2004,Country,Ghana,3577
+1156,2004,Country,Greece,1100
+1157,2004,Country,Grenada,530
+1158,2004,Country,Guadeloupe,21
+1159,2004,Country,Guatemala,5080
+1160,2004,Country,Guinea,124
+1161,2004,Country,Guinea-Bissau,10
+1162,2004,Country,Guyana,4877
+1163,2004,Country,Haiti,8215
+1164,2004,Country,Honduras,3455
+1165,2004,Country,Hong Kong,3713
+1166,2004,Country,Hungary,738
+1167,2004,Country,Iceland,79
+1168,2004,Country,India,37975
+1169,2004,Country,Indonesia,1131
+1170,2004,Country,Iran,11781
+1171,2004,Country,Iraq,3646
+1172,2004,Country,Ireland,2421
+1173,2004,Country,Israel,2373
+1174,2004,Country,Italy,2295
+1175,2004,Country,Jamaica,12271
+1176,2004,Country,Japan,1955
+1177,2004,Country,Jordan,2324
+1178,2004,Country,Kazakhstan,572
+1179,2004,Country,Kenya,997
+1180,2004,Country,"Korea, North",0
+1181,2004,Country,South Korea,17184
+1182,2004,Country,Kosovo,0
+1183,2004,Country,Kuwait,796
+1184,2004,Country,Kyrgyzstan,159
+1185,2004,Country,Laos,5678
+1186,2004,Country,Latvia,335
+1187,2004,Country,Lebanon,3314
+1188,2004,Country,Lesotho,8
+1189,2004,Country,Liberia,1218
+1190,2004,Country,Libya,130
+1191,2004,Country,Lithuania,738
+1192,2004,Country,Luxembourg,9
+1193,2004,Country,Macau,146
+1194,2004,Country,Macedonia,601
+1195,2004,Country,Madagascar,30
+1196,2004,Country,Malawi,52
+1197,2004,Country,Malaysia,1019
+1198,2004,Country,Mali,66
+1199,2004,Country,Malta,80
+1200,2004,Country,Marshall Islands,9
+1201,2004,Country,Martinique,18
+1202,2004,Country,Mauritania,53
+1203,2004,Country,Mauritius,43
+1204,2004,Country,Mexico,63840
+1205,2004,Country,"Micronesia, Federated States",14
+1206,2004,Country,Moldova,711
+1207,2004,Country,Mongolia,21
+1208,2004,Country,Montenegro,0
+1209,2004,Country,Montserrat,54
+1210,2004,Country,Morocco,1841
+1211,2004,Country,Mozambique,40
+1212,2004,Country,Namibia,13
+1213,2004,Country,Nepal,408
+1214,2004,Country,Netherlands,722
+1215,2004,Country,Netherlands Antilles,23
+1216,2004,Country,New Zealand,420
+1217,2004,Country,Nicaragua,3444
+1218,2004,Country,Niger,46
+1219,2004,Country,Nigeria,6470
+1220,2004,Country,Norway,137
+1221,2004,Country,Oman,13
+1222,2004,Country,Pakistan,8744
+1223,2004,Country,Palau,19
+1224,2004,Country,Panama,1462
+1225,2004,Country,Papua New Guinea,3
+1226,2004,Country,Paraguay,178
+1227,2004,Country,Peru,6980
+1228,2004,Country,Philippines,31448
+1229,2004,Country,Poland,10335
+1230,2004,Country,Portugal,2173
+1231,2004,Country,Qatar,48
+1232,2004,Country,Romania,4388
+1233,2004,Country,Russia,7586
+1234,2004,Country,Rwanda,116
+1235,2004,Country,Saint Kitts-Nevis,282
+1236,2004,Country,Saint Lucia,359
+1237,2004,Country,Saint Vincent and the Grenadines,388
+1238,2004,Country,Samoa,157
+1239,2004,Country,Saudi Arabia,354
+1240,2004,Country,Senegal,371
+1241,2004,Country,Serbia,0
+1242,2004,Country,Serbia and Montenegro 2,3159
+1243,2004,Country,Seychelles,13
+1244,2004,Country,Sierra Leone,945
+1245,2004,Country,Singapore,332
+1246,2004,Country,Sint Maarten,0
+1247,2004,Country,Slovakia,0
+1248,2004,Country,Slovak Republic,318
+1249,2004,Country,Slovenia,60
+1250,2004,Country,Somalia,2714
+1251,2004,Country,South Africa,1453
+1252,2004,Country,South Sudan,0
+1253,2004,Country,Soviet Union (former),3772
+1254,2004,Country,Spain,1120
+1255,2004,Country,Sri Lanka,980
+1256,2004,Country,Sudan,1104
+1257,2004,Country,Suriname,97
+1258,2004,Country,Swaziland,5
+1259,2004,Country,Sweden,1016
+1260,2004,Country,Switzerland,487
+1261,2004,Country,Syria,2385
+1262,2004,Country,Taiwan,7889
+1263,2004,Country,Tajikistan,117
+1264,2004,Country,Tanzania,348
+1265,2004,Country,Thailand,3779
+1266,2004,Country,Togo,204
+1267,2004,Country,Tonga,207
+1268,2004,Country,Trinidad and Tobago,3958
+1269,2004,Country,Tunisia,192
+1270,2004,Country,Turkey,1964
+1271,2004,Country,Turkmenistan,58
+1272,2004,Country,Turks and Caicos Islands,16
+1273,2004,Country,Uganda,327
+1274,2004,Country,Ukraine,8069
+1275,2004,Country,United Arab Emirates,168
+1276,2004,Country,United Kingdom,7785
+1277,2004,Country,United States,36
+1278,2004,Country,Uruguay,412
+1279,2004,Country,Uzbekistan,1224
+1280,2004,Country,Venezuela,2385
+1281,2004,Country,Vietnam,27480
+1282,2004,Country,British Virgin Islands,41
+1283,2004,Country,U.S. Virgin Islands,5
+1284,2004,Country,Yemen,822
+1285,2004,Country,Zambia,180
+1286,2004,Country,Zimbabwe,225
+1287,2004,Country,All other countries,30
+1288,2004,Country,Unknown,1358
+1289,2004,Country,Cape Verde,635
+1290,2005,Region,Africa,38830
+1291,2005,Region,Asia,237724
+1292,2005,Region,Europe,97482
+1293,2005,Region,North America,180572
+1294,2005,Region,Oceania,3898
+1295,2005,Region,South America,44504
+1296,2005,Region,Unknown,1270
+1297,2005,Country,Afghanistan,1464
+1298,2005,Country,Albania,3830
+1299,2005,Country,Algeria,722
+1300,2005,Country,American Samoa,294
+1301,2005,Country,Angola,86
+1302,2005,Country,Anguilla,27
+1303,2005,Country,Antigua-Barbuda,371
+1304,2005,Country,Argentina,1976
+1305,2005,Country,Armenia,1737
+1306,2005,Country,Aruba,39
+1307,2005,Country,Australia,1155
+1308,2005,Country,Austria,307
+1309,2005,Country,Azerbaijan,904
+1310,2005,Country,Bahamas,343
+1311,2005,Country,Bahrain,57
+1312,2005,Country,Bangladesh,5503
+1313,2005,Country,Barbados,778
+1314,2005,Country,Belarus,1549
+1315,2005,Country,Belgium,247
+1316,2005,Country,Belize,704
+1317,2005,Country,Benin,56
+1318,2005,Country,Bermuda,58
+1319,2005,Country,Bhutan,6
+1320,2005,Country,Bolivia,1361
+1321,2005,Country,Bosnia-Herzegovina,8921
+1322,2005,Country,Botswana,9
+1323,2005,Country,Brazil,4583
+1324,2005,Country,Brunei,13
+1325,2005,Country,Bulgaria,2906
+1326,2005,Country,Burkina Faso,26
+1327,2005,Country,Burma,1360
+1328,2005,Country,Burundi,56
+1329,2005,Country,Cabo Verde,0
+1330,2005,Country,Cambodia,4806
+1331,2005,Country,Cameroon,661
+1332,2005,Country,Canada,7815
+1333,2005,Country,Cayman Islands,8
+1334,2005,Country,Central African Republic,10
+1335,2005,Country,Chad,19
+1336,2005,Country,Chile,1183
+1337,2005,Country,"China, People's Republic",31708
+1338,2005,Country,Colombia,11396
+1339,2005,Country,"Congo, Democratic Republic",122
+1340,2005,Country,"Congo, Republic",193
+1341,2005,Country,Costa Rica,1161
+1342,2005,Country,Cote d'Ivoire,324
+1343,2005,Country,Croatia,1348
+1344,2005,Country,Cuba,11227
+1345,2005,Country,Curacao,0
+1346,2005,Country,Cyprus,134
+1347,2005,Country,Czechia,0
+1348,2005,Country,Czech Republic,102
+1349,2005,Country,Czechoslovakia (former),490
+1350,2005,Country,Denmark,154
+1351,2005,Country,Djibouti,17
+1352,2005,Country,Dominica,543
+1353,2005,Country,Dominican Republic,20831
+1354,2005,Country,Ecuador,7091
+1355,2005,Country,Egypt,4061
+1356,2005,Country,El Salvador,12174
+1357,2005,Country,Equatorial Guinea,0
+1358,2005,Country,Eritrea,692
+1359,2005,Country,Estonia,104
+1360,2005,Country,Ethiopia,4621
+1361,2005,Country,Fiji,1503
+1362,2005,Country,Finland,431
+1363,2005,Country,France,1963
+1364,2005,Country,French Guiana,6
+1365,2005,Country,French Polynesia,22
+1366,2005,Country,Gabon,18
+1367,2005,Country,Gambia,189
+1368,2005,Country,Georgia,443
+1369,2005,Country,Germany,3811
+1370,2005,Country,Ghana,3561
+1371,2005,Country,Greece,1075
+1372,2005,Country,Grenada,649
+1373,2005,Country,Guadeloupe,26
+1374,2005,Country,Guatemala,6250
+1375,2005,Country,Guinea,137
+1376,2005,Country,Guinea-Bissau,10
+1377,2005,Country,Guyana,5543
+1378,2005,Country,Haiti,9740
+1379,2005,Country,Honduras,3953
+1380,2005,Country,Hong Kong,4479
+1381,2005,Country,Hungary,720
+1382,2005,Country,Iceland,82
+1383,2005,Country,India,35962
+1384,2005,Country,Indonesia,1234
+1385,2005,Country,Iran,11031
+1386,2005,Country,Iraq,3273
+1387,2005,Country,Ireland,1995
+1388,2005,Country,Israel,2436
+1389,2005,Country,Italy,2511
+1390,2005,Country,Jamaica,13674
+1391,2005,Country,Japan,2154
+1392,2005,Country,Jordan,2464
+1393,2005,Country,Kazakhstan,726
+1394,2005,Country,Kenya,1158
+1395,2005,Country,"Korea, North",0
+1396,2005,Country,South Korea,19223
+1397,2005,Country,Kosovo,0
+1398,2005,Country,Kuwait,846
+1399,2005,Country,Kyrgyzstan,217
+1400,2005,Country,Laos,5261
+1401,2005,Country,Latvia,348
+1402,2005,Country,Lebanon,3288
+1403,2005,Country,Lesotho,4
+1404,2005,Country,Liberia,1548
+1405,2005,Country,Libya,173
+1406,2005,Country,Lithuania,887
+1407,2005,Country,Luxembourg,7
+1408,2005,Country,Macau,195
+1409,2005,Country,Macedonia,651
+1410,2005,Country,Madagascar,29
+1411,2005,Country,Malawi,60
+1412,2005,Country,Malaysia,1221
+1413,2005,Country,Mali,85
+1414,2005,Country,Malta,67
+1415,2005,Country,Marshall Islands,4
+1416,2005,Country,Martinique,21
+1417,2005,Country,Mauritania,56
+1418,2005,Country,Mauritius,46
+1419,2005,Country,Mexico,77089
+1420,2005,Country,"Micronesia, Federated States",22
+1421,2005,Country,Moldova,927
+1422,2005,Country,Mongolia,41
+1423,2005,Country,Montenegro,0
+1424,2005,Country,Montserrat,78
+1425,2005,Country,Morocco,2628
+1426,2005,Country,Mozambique,50
+1427,2005,Country,Namibia,18
+1428,2005,Country,Nepal,417
+1429,2005,Country,Netherlands,860
+1430,2005,Country,Netherlands Antilles,25
+1431,2005,Country,New Zealand,444
+1432,2005,Country,Nicaragua,5080
+1433,2005,Country,Niger,48
+1434,2005,Country,Nigeria,6894
+1435,2005,Country,Norway,136
+1436,2005,Country,Oman,16
+1437,2005,Country,Pakistan,9699
+1438,2005,Country,Palau,18
+1439,2005,Country,Panama,1643
+1440,2005,Country,Papua New Guinea,10
+1441,2005,Country,Paraguay,202
+1442,2005,Country,Peru,7904
+1443,2005,Country,Philippines,36673
+1444,2005,Country,Poland,9801
+1445,2005,Country,Portugal,2403
+1446,2005,Country,Qatar,66
+1447,2005,Country,Romania,4602
+1448,2005,Country,Russia,8297
+1449,2005,Country,Rwanda,123
+1450,2005,Country,Saint Kitts-Nevis,331
+1451,2005,Country,Saint Lucia,515
+1452,2005,Country,Saint Vincent and the Grenadines,491
+1453,2005,Country,Samoa,165
+1454,2005,Country,Saudi Arabia,397
+1455,2005,Country,Senegal,401
+1456,2005,Country,Serbia,0
+1457,2005,Country,Serbia and Montenegro 2,5857
+1458,2005,Country,Seychelles,8
+1459,2005,Country,Sierra Leone,1043
+1460,2005,Country,Singapore,338
+1461,2005,Country,Sint Maarten,0
+1462,2005,Country,Slovakia,0
+1463,2005,Country,Slovak Republic,362
+1464,2005,Country,Slovenia,58
+1465,2005,Country,Somalia,3238
+1466,2005,Country,South Africa,1495
+1467,2005,Country,South Sudan,0
+1468,2005,Country,Soviet Union (former),3668
+1469,2005,Country,Spain,1256
+1470,2005,Country,Sri Lanka,927
+1471,2005,Country,Sudan,1551
+1472,2005,Country,Suriname,125
+1473,2005,Country,Swaziland,5
+1474,2005,Country,Sweden,980
+1475,2005,Country,Switzerland,541
+1476,2005,Country,Syria,2252
+1477,2005,Country,Taiwan,8295
+1478,2005,Country,Tajikistan,116
+1479,2005,Country,Tanzania,363
+1480,2005,Country,Thailand,4314
+1481,2005,Country,Togo,291
+1482,2005,Country,Tonga,246
+1483,2005,Country,Trinidad and Tobago,4832
+1484,2005,Country,Tunisia,226
+1485,2005,Country,Turkey,2231
+1486,2005,Country,Turkmenistan,59
+1487,2005,Country,Turks and Caicos Islands,21
+1488,2005,Country,Uganda,340
+1489,2005,Country,Ukraine,9343
+1490,2005,Country,United Arab Emirates,197
+1491,2005,Country,United Kingdom,8087
+1492,2005,Country,United States,29
+1493,2005,Country,Uruguay,475
+1494,2005,Country,Uzbekistan,1588
+1495,2005,Country,Venezuela,2659
+1496,2005,Country,Vietnam,32926
+1497,2005,Country,British Virgin Islands,38
+1498,2005,Country,U.S. Virgin Islands,4
+1499,2005,Country,Yemen,814
+1500,2005,Country,Zambia,159
+1501,2005,Country,Zimbabwe,260
+1502,2005,Country,All other countries,37
+1503,2005,Country,Unknown,1270
+1504,2005,Country,Cape Verde,933
+1505,2006,Region,Africa,50397
+1506,2006,Region,Asia,257125
+1507,2006,Region,Europe,107459
+1508,2006,Region,North America,223086
+1509,2006,Region,Oceania,3657
+1510,2006,Region,South America,59985
+1511,2006,Region,Unknown,880
+1512,2006,Country,Afghanistan,2018
+1513,2006,Country,Albania,3964
+1514,2006,Country,Algeria,825
+1515,2006,Country,American Samoa,247
+1516,2006,Country,Angola,106
+1517,2006,Country,Anguilla,35
+1518,2006,Country,Antigua-Barbuda,520
+1519,2006,Country,Argentina,2695
+1520,2006,Country,Armenia,1605
+1521,2006,Country,Aruba,44
+1522,2006,Country,Australia,1240
+1523,2006,Country,Austria,359
+1524,2006,Country,Azerbaijan,997
+1525,2006,Country,Bahamas,574
+1526,2006,Country,Bahrain,81
+1527,2006,Country,Bangladesh,6683
+1528,2006,Country,Barbados,1006
+1529,2006,Country,Belarus,1769
+1530,2006,Country,Belgium,355
+1531,2006,Country,Belize,918
+1532,2006,Country,Benin,64
+1533,2006,Country,Bermuda,72
+1534,2006,Country,Bhutan,0
+1535,2006,Country,Bolivia,1630
+1536,2006,Country,Bosnia-Herzegovina,9686
+1537,2006,Country,Botswana,17
+1538,2006,Country,Brazil,7028
+1539,2006,Country,Brunei,13
+1540,2006,Country,Bulgaria,3488
+1541,2006,Country,Burkina Faso,51
+1542,2006,Country,Burma,1486
+1543,2006,Country,Burundi,71
+1544,2006,Country,Cabo Verde,0
+1545,2006,Country,Cambodia,4778
+1546,2006,Country,Cameroon,771
+1547,2006,Country,Canada,9607
+1548,2006,Country,Cayman Islands,18
+1549,2006,Country,Central African Republic,14
+1550,2006,Country,Chad,18
+1551,2006,Country,Chile,1549
+1552,2006,Country,"China, People's Republic",35387
+1553,2006,Country,Colombia,15698
+1554,2006,Country,"Congo, Democratic Republic",229
+1555,2006,Country,"Congo, Republic",369
+1556,2006,Country,Costa Rica,1402
+1557,2006,Country,Cote d'Ivoire,491
+1558,2006,Country,Croatia,1623
+1559,2006,Country,Cuba,21481
+1560,2006,Country,Curacao,0
+1561,2006,Country,Cyprus,140
+1562,2006,Country,Czechia,0
+1563,2006,Country,Czech Republic,122
+1564,2006,Country,Czechoslovakia (former),614
+1565,2006,Country,Denmark,199
+1566,2006,Country,Djibouti,18
+1567,2006,Country,Dominica,741
+1568,2006,Country,Dominican Republic,22165
+1569,2006,Country,Ecuador,8321
+1570,2006,Country,Egypt,4271
+1571,2006,Country,El Salvador,13430
+1572,2006,Country,Equatorial Guinea,0
+1573,2006,Country,Eritrea,653
+1574,2006,Country,Estonia,156
+1575,2006,Country,Ethiopia,5397
+1576,2006,Country,Fiji,1163
+1577,2006,Country,Finland,532
+1578,2006,Country,France,2449
+1579,2006,Country,French Guiana,5
+1580,2006,Country,French Polynesia,16
+1581,2006,Country,Gabon,23
+1582,2006,Country,Gambia,286
+1583,2006,Country,Georgia,628
+1584,2006,Country,Germany,4556
+1585,2006,Country,Ghana,4760
+1586,2006,Country,Greece,1291
+1587,2006,Country,Grenada,781
+1588,2006,Country,Guadeloupe,36
+1589,2006,Country,Guatemala,6551
+1590,2006,Country,Guinea,194
+1591,2006,Country,Guinea-Bissau,14
+1592,2006,Country,Guyana,7434
+1593,2006,Country,Haiti,15979
+1594,2006,Country,Honduras,4949
+1595,2006,Country,Hong Kong,4263
+1596,2006,Country,Hungary,955
+1597,2006,Country,Iceland,70
+1598,2006,Country,India,47542
+1599,2006,Country,Indonesia,1287
+1600,2006,Country,Iran,11363
+1601,2006,Country,Iraq,3614
+1602,2006,Country,Ireland,1754
+1603,2006,Country,Israel,2905
+1604,2006,Country,Italy,2769
+1605,2006,Country,Jamaica,18953
+1606,2006,Country,Japan,2192
+1607,2006,Country,Jordan,2634
+1608,2006,Country,Kazakhstan,872
+1609,2006,Country,Kenya,1636
+1610,2006,Country,"Korea, North",0
+1611,2006,Country,South Korea,17668
+1612,2006,Country,Kosovo,0
+1613,2006,Country,Kuwait,903
+1614,2006,Country,Kyrgyzstan,246
+1615,2006,Country,Laos,4114
+1616,2006,Country,Latvia,347
+1617,2006,Country,Lebanon,3393
+1618,2006,Country,Lesotho,7
+1619,2006,Country,Liberia,2193
+1620,2006,Country,Libya,142
+1621,2006,Country,Lithuania,964
+1622,2006,Country,Luxembourg,9
+1623,2006,Country,Macau,163
+1624,2006,Country,Macedonia,837
+1625,2006,Country,Madagascar,36
+1626,2006,Country,Malawi,67
+1627,2006,Country,Malaysia,1264
+1628,2006,Country,Mali,118
+1629,2006,Country,Malta,86
+1630,2006,Country,Marshall Islands,14
+1631,2006,Country,Martinique,16
+1632,2006,Country,Mauritania,106
+1633,2006,Country,Mauritius,65
+1634,2006,Country,Mexico,83979
+1635,2006,Country,"Micronesia, Federated States",41
+1636,2006,Country,Moldova,988
+1637,2006,Country,Mongolia,60
+1638,2006,Country,Montenegro,0
+1639,2006,Country,Montserrat,96
+1640,2006,Country,Morocco,3643
+1641,2006,Country,Mozambique,62
+1642,2006,Country,Namibia,17
+1643,2006,Country,Nepal,575
+1644,2006,Country,Netherlands,1008
+1645,2006,Country,Netherlands Antilles,33
+1646,2006,Country,New Zealand,440
+1647,2006,Country,Nicaragua,9283
+1648,2006,Country,Niger,46
+1649,2006,Country,Nigeria,8652
+1650,2006,Country,Norway,145
+1651,2006,Country,Oman,23
+1652,2006,Country,Pakistan,10411
+1653,2006,Country,Palau,36
+1654,2006,Country,Panama,1930
+1655,2006,Country,Papua New Guinea,12
+1656,2006,Country,Paraguay,285
+1657,2006,Country,Peru,10063
+1658,2006,Country,Philippines,40500
+1659,2006,Country,Poland,10230
+1660,2006,Country,Portugal,2638
+1661,2006,Country,Qatar,59
+1662,2006,Country,Romania,5484
+1663,2006,Country,Russia,9412
+1664,2006,Country,Rwanda,178
+1665,2006,Country,Saint Kitts-Nevis,483
+1666,2006,Country,Saint Lucia,623
+1667,2006,Country,Saint Vincent and the Grenadines,624
+1668,2006,Country,Samoa,201
+1669,2006,Country,Saudi Arabia,511
+1670,2006,Country,Senegal,503
+1671,2006,Country,Serbia,0
+1672,2006,Country,Serbia and Montenegro 2,5555
+1673,2006,Country,Seychelles,22
+1674,2006,Country,Sierra Leone,1683
+1675,2006,Country,Singapore,347
+1676,2006,Country,Sint Maarten,0
+1677,2006,Country,Slovakia,0
+1678,2006,Country,Slovak Republic,479
+1679,2006,Country,Slovenia,61
+1680,2006,Country,Somalia,4242
+1681,2006,Country,South Africa,2225
+1682,2006,Country,South Sudan,0
+1683,2006,Country,Soviet Union (former),3831
+1684,2006,Country,Spain,1465
+1685,2006,Country,Sri Lanka,1023
+1686,2006,Country,Sudan,2587
+1687,2006,Country,Suriname,222
+1688,2006,Country,Swaziland,10
+1689,2006,Country,Sweden,984
+1690,2006,Country,Switzerland,539
+1691,2006,Country,Syria,2395
+1692,2006,Country,Taiwan,8819
+1693,2006,Country,Tajikistan,147
+1694,2006,Country,Tanzania,490
+1695,2006,Country,Thailand,4583
+1696,2006,Country,Togo,536
+1697,2006,Country,Tonga,235
+1698,2006,Country,Trinidad and Tobago,6612
+1699,2006,Country,Tunisia,315
+1700,2006,Country,Turkey,2742
+1701,2006,Country,Turkmenistan,75
+1702,2006,Country,Turks and Caicos Islands,30
+1703,2006,Country,Uganda,477
+1704,2006,Country,Ukraine,10184
+1705,2006,Country,United Arab Emirates,277
+1706,2006,Country,United Kingdom,9104
+1707,2006,Country,United States,57
+1708,2006,Country,Uruguay,579
+1709,2006,Country,Uzbekistan,1821
+1710,2006,Country,Venezuela,4476
+1711,2006,Country,Vietnam,29917
+1712,2006,Country,British Virgin Islands,54
+1713,2006,Country,U.S. Virgin Islands,0
+1714,2006,Country,Yemen,989
+1715,2006,Country,Zambia,239
+1716,2006,Country,Zimbabwe,322
+1717,2006,Country,All other countries,32
+1718,2006,Country,Unknown,880
+1719,2006,Country,Cape Verde,1126
+1720,2007,Region,Africa,41652
+1721,2007,Region,Asia,238797
+1722,2007,Region,Europe,86742
+1723,2007,Region,North America,241163
+1724,2007,Region,Oceania,3342
+1725,2007,Region,South America,48133
+1726,2007,Region,Unknown,648
+1727,2007,Country,Afghanistan,2013
+1728,2007,Country,Albania,2786
+1729,2007,Country,Algeria,578
+1730,2007,Country,American Samoa,161
+1731,2007,Country,Angola,105
+1732,2007,Country,Anguilla,37
+1733,2007,Country,Antigua-Barbuda,416
+1734,2007,Country,Argentina,2348
+1735,2007,Country,Armenia,1495
+1736,2007,Country,Aruba,36
+1737,2007,Country,Australia,1067
+1738,2007,Country,Austria,292
+1739,2007,Country,Azerbaijan,606
+1740,2007,Country,Bahamas,397
+1741,2007,Country,Bahrain,56
+1742,2007,Country,Bangladesh,4746
+1743,2007,Country,Barbados,718
+1744,2007,Country,Belarus,1401
+1745,2007,Country,Belgium,248
+1746,2007,Country,Belize,799
+1747,2007,Country,Benin,61
+1748,2007,Country,Bermuda,42
+1749,2007,Country,Bhutan,10
+1750,2007,Country,Bolivia,1311
+1751,2007,Country,Bosnia-Herzegovina,8175
+1752,2007,Country,Botswana,0
+1753,2007,Country,Brazil,5745
+1754,2007,Country,Brunei,20
+1755,2007,Country,Bulgaria,2621
+1756,2007,Country,Burkina Faso,37
+1757,2007,Country,Burma,1058
+1758,2007,Country,Burundi,95
+1759,2007,Country,Cabo Verde,0
+1760,2007,Country,Cambodia,4197
+1761,2007,Country,Cameroon,611
+1762,2007,Country,Canada,8473
+1763,2007,Country,Cayman Islands,9
+1764,2007,Country,Central African Republic,17
+1765,2007,Country,Chad,22
+1766,2007,Country,Chile,1346
+1767,2007,Country,"China, People's Republic",33134
+1768,2007,Country,Colombia,12089
+1769,2007,Country,"Congo, Democratic Republic",164
+1770,2007,Country,"Congo, Republic",287
+1771,2007,Country,Costa Rica,1227
+1772,2007,Country,Cote d'Ivoire,382
+1773,2007,Country,Croatia,1073
+1774,2007,Country,Cuba,15394
+1775,2007,Country,Curacao,0
+1776,2007,Country,Cyprus,109
+1777,2007,Country,Czechia,0
+1778,2007,Country,Czech Republic,122
+1779,2007,Country,Czechoslovakia (former),449
+1780,2007,Country,Denmark,170
+1781,2007,Country,Djibouti,14
+1782,2007,Country,Dominica,539
+1783,2007,Country,Dominican Republic,20645
+1784,2007,Country,Ecuador,7229
+1785,2007,Country,Egypt,3231
+1786,2007,Country,El Salvador,17157
+1787,2007,Country,Equatorial Guinea,0
+1788,2007,Country,Eritrea,553
+1789,2007,Country,Estonia,132
+1790,2007,Country,Ethiopia,5165
+1791,2007,Country,Fiji,1118
+1792,2007,Country,Finland,359
+1793,2007,Country,France,1979
+1794,2007,Country,French Guiana,5
+1795,2007,Country,French Polynesia,19
+1796,2007,Country,Gabon,18
+1797,2007,Country,Gambia,246
+1798,2007,Country,Georgia,514
+1799,2007,Country,Germany,3617
+1800,2007,Country,Ghana,3181
+1801,2007,Country,Greece,1200
+1802,2007,Country,Grenada,511
+1803,2007,Country,Guadeloupe,16
+1804,2007,Country,Guatemala,8181
+1805,2007,Country,Guinea,191
+1806,2007,Country,Guinea-Bissau,5
+1807,2007,Country,Guyana,5631
+1808,2007,Country,Haiti,11552
+1809,2007,Country,Honduras,4669
+1810,2007,Country,Hong Kong,3871
+1811,2007,Country,Hungary,788
+1812,2007,Country,Iceland,62
+1813,2007,Country,India,46871
+1814,2007,Country,Indonesia,1213
+1815,2007,Country,Iran,10557
+1816,2007,Country,Iraq,2967
+1817,2007,Country,Ireland,1335
+1818,2007,Country,Israel,2363
+1819,2007,Country,Italy,2217
+1820,2007,Country,Jamaica,12314
+1821,2007,Country,Japan,1934
+1822,2007,Country,Jordan,2125
+1823,2007,Country,Kazakhstan,725
+1824,2007,Country,Kenya,1396
+1825,2007,Country,"Korea, North",0
+1826,2007,Country,South Korea,17628
+1827,2007,Country,Kosovo,0
+1828,2007,Country,Kuwait,755
+1829,2007,Country,Kyrgyzstan,331
+1830,2007,Country,Laos,3787
+1831,2007,Country,Latvia,327
+1832,2007,Country,Lebanon,2779
+1833,2007,Country,Lesotho,11
+1834,2007,Country,Liberia,1815
+1835,2007,Country,Libya,136
+1836,2007,Country,Lithuania,819
+1837,2007,Country,Luxembourg,9
+1838,2007,Country,Macau,158
+1839,2007,Country,Macedonia,597
+1840,2007,Country,Madagascar,26
+1841,2007,Country,Malawi,46
+1842,2007,Country,Malaysia,1217
+1843,2007,Country,Mali,93
+1844,2007,Country,Malta,66
+1845,2007,Country,Marshall Islands,12
+1846,2007,Country,Martinique,11
+1847,2007,Country,Mauritania,72
+1848,2007,Country,Mauritius,55
+1849,2007,Country,Mexico,122258
+1850,2007,Country,"Micronesia, Federated States",41
+1851,2007,Country,Moldova,1068
+1852,2007,Country,Mongolia,53
+1853,2007,Country,Montenegro,0
+1854,2007,Country,Montserrat,51
+1855,2007,Country,Morocco,2684
+1856,2007,Country,Mozambique,45
+1857,2007,Country,Namibia,22
+1858,2007,Country,Nepal,638
+1859,2007,Country,Netherlands,819
+1860,2007,Country,Netherlands Antilles,28
+1861,2007,Country,New Zealand,447
+1862,2007,Country,Nicaragua,8164
+1863,2007,Country,Niger,52
+1864,2007,Country,Nigeria,6582
+1865,2007,Country,Norway,105
+1866,2007,Country,Oman,15
+1867,2007,Country,Pakistan,9147
+1868,2007,Country,Palau,40
+1869,2007,Country,Panama,1617
+1870,2007,Country,Papua New Guinea,5
+1871,2007,Country,Paraguay,234
+1872,2007,Country,Peru,7965
+1873,2007,Country,Philippines,38830
+1874,2007,Country,Poland,9320
+1875,2007,Country,Portugal,2506
+1876,2007,Country,Qatar,60
+1877,2007,Country,Romania,3986
+1878,2007,Country,Russia,7660
+1879,2007,Country,Rwanda,91
+1880,2007,Country,Saint Kitts-Nevis,334
+1881,2007,Country,Saint Lucia,506
+1882,2007,Country,Saint Vincent and the Grenadines,450
+1883,2007,Country,Samoa,163
+1884,2007,Country,Saudi Arabia,504
+1885,2007,Country,Senegal,386
+1886,2007,Country,Serbia,0
+1887,2007,Country,Serbia and Montenegro 2,3382
+1888,2007,Country,Seychelles,5
+1889,2007,Country,Sierra Leone,1485
+1890,2007,Country,Singapore,315
+1891,2007,Country,Sint Maarten,0
+1892,2007,Country,Slovakia,0
+1893,2007,Country,Slovak Republic,380
+1894,2007,Country,Slovenia,60
+1895,2007,Country,Somalia,3594
+1896,2007,Country,South Africa,2069
+1897,2007,Country,South Sudan,0
+1898,2007,Country,Soviet Union (former),2813
+1899,2007,Country,Spain,1175
+1900,2007,Country,Sri Lanka,1024
+1901,2007,Country,Sudan,2785
+1902,2007,Country,Suriname,159
+1903,2007,Country,Swaziland,4
+1904,2007,Country,Sweden,786
+1905,2007,Country,Switzerland,501
+1906,2007,Country,Syria,1799
+1907,2007,Country,Taiwan,7486
+1908,2007,Country,Tajikistan,109
+1909,2007,Country,Tanzania,356
+1910,2007,Country,Thailand,4438
+1911,2007,Country,Togo,473
+1912,2007,Country,Tonga,251
+1913,2007,Country,Trinidad and Tobago,4514
+1914,2007,Country,Tunisia,299
+1915,2007,Country,Turkey,2009
+1916,2007,Country,Turkmenistan,58
+1917,2007,Country,Turks and Caicos Islands,14
+1918,2007,Country,Uganda,344
+1919,2007,Country,Ukraine,8594
+1920,2007,Country,United Arab Emirates,253
+1921,2007,Country,United Kingdom,7752
+1922,2007,Country,United States,41
+1923,2007,Country,Uruguay,496
+1924,2007,Country,Uzbekistan,1148
+1925,2007,Country,Venezuela,3575
+1926,2007,Country,Vietnam,27921
+1927,2007,Country,British Virgin Islands,40
+1928,2007,Country,U.S. Virgin Islands,0
+1929,2007,Country,Yemen,734
+1930,2007,Country,Zambia,212
+1931,2007,Country,Zimbabwe,312
+1932,2007,Country,All other countries,40
+1933,2007,Country,Unknown,648
+1934,2007,Country,Cape Verde,1223
+1935,2008,Region,Africa,54418
+1936,2008,Region,Asia,330361
+1937,2008,Region,Europe,108688
+1938,2008,Region,North America,462312
+1939,2008,Region,Oceania,4781
+1940,2008,Region,South America,84845
+1941,2008,Region,Unknown,1134
+1942,2008,Country,Afghanistan,2650
+1943,2008,Country,Albania,2972
+1944,2008,Country,Algeria,894
+1945,2008,Country,American Samoa,178
+1946,2008,Country,Angola,161
+1947,2008,Country,Anguilla,47
+1948,2008,Country,Antigua-Barbuda,661
+1949,2008,Country,Argentina,4170
+1950,2008,Country,Armenia,2195
+1951,2008,Country,Aruba,55
+1952,2008,Country,Australia,1636
+1953,2008,Country,Austria,357
+1954,2008,Country,Azerbaijan,834
+1955,2008,Country,Bahamas,838
+1956,2008,Country,Bahrain,85
+1957,2008,Country,Bangladesh,5345
+1958,2008,Country,Barbados,1203
+1959,2008,Country,Belarus,1767
+1960,2008,Country,Belgium,716
+1961,2008,Country,Belize,1291
+1962,2008,Country,Benin,79
+1963,2008,Country,Bermuda,75
+1964,2008,Country,Bhutan,9
+1965,2008,Country,Bolivia,2807
+1966,2008,Country,Bosnia-Herzegovina,8176
+1967,2008,Country,Botswana,18
+1968,2008,Country,Brazil,8808
+1969,2008,Country,Brunei,25
+1970,2008,Country,Bulgaria,3213
+1971,2008,Country,Burkina Faso,48
+1972,2008,Country,Burma,1383
+1973,2008,Country,Burundi,76
+1974,2008,Country,Cabo Verde,1265
+1975,2008,Country,Cambodia,5869
+1976,2008,Country,Cameroon,967
+1977,2008,Country,Canada,12387
+1978,2008,Country,Cayman Islands,24
+1979,2008,Country,Central African Republic,19
+1980,2008,Country,Chad,22
+1981,2008,Country,Chile,2851
+1982,2008,Country,"China, People's Republic",40017
+1983,2008,Country,Colombia,22926
+1984,2008,Country,"Congo, Democratic Republic",211
+1985,2008,Country,"Congo, Republic",306
+1986,2008,Country,Costa Rica,2376
+1987,2008,Country,Cote d'Ivoire,479
+1988,2008,Country,Croatia,1251
+1989,2008,Country,Cuba,39871
+1990,2008,Country,Cyprus,160
+1991,2008,Country,Czechia,192
+1992,2008,Country,Czechoslovakia (former),629
+1993,2008,Country,Denmark,210
+1994,2008,Country,Djibouti,25
+1995,2008,Country,Dominica,975
+1996,2008,Country,Dominican Republic,35251
+1997,2008,Country,Ecuador,11908
+1998,2008,Country,Egypt,4165
+1999,2008,Country,El Salvador,35796
+2000,2008,Country,Equatorial Guinea,9
+2001,2008,Country,Eritrea,694
+2002,2008,Country,Estonia,221
+2003,2008,Country,Ethiopia,7160
+2004,2008,Country,Fiji,1508
+2005,2008,Country,Finland,549
+2006,2008,Country,France,2835
+2007,2008,Country,French Polynesia,15
+2008,2008,Country,Gabon,24
+2009,2008,Country,Gambia,330
+2010,2008,Country,Georgia,627
+2011,2008,Country,Germany,4708
+2012,2008,Country,Ghana,4557
+2013,2008,Country,Greece,1314
+2014,2008,Country,Grenada,850
+2015,2008,Country,Guatemala,17087
+2016,2008,Country,Guinea,225
+2017,2008,Country,Guinea-Bissau,14
+2018,2008,Country,Guyana,8290
+2019,2008,Country,Haiti,21229
+2020,2008,Country,Honduras,8794
+2021,2008,Country,Hong Kong,4940
+2022,2008,Country,Hungary,1089
+2023,2008,Country,Iceland,83
+2024,2008,Country,India,65971
+2025,2008,Country,Indonesia,1823
+2026,2008,Country,Iran,11813
+2027,2008,Country,Iraq,5057
+2028,2008,Country,Ireland,2179
+2029,2008,Country,Israel,2933
+2030,2008,Country,Italy,2991
+2031,2008,Country,Jamaica,21324
+2032,2008,Country,Japan,2712
+2033,2008,Country,Jordan,2632
+2034,2008,Country,Kazakhstan,908
+2035,2008,Country,Kenya,2218
+2036,2008,Country,South Korea,22759
+2037,2008,Country,Kosovo,89
+2038,2008,Country,Kuwait,1031
+2039,2008,Country,Kyrgyzstan,361
+2040,2008,Country,Laos,5553
+2041,2008,Country,Latvia,455
+2042,2008,Country,Lebanon,3399
+2043,2008,Country,Lesotho,6
+2044,2008,Country,Liberia,2468
+2045,2008,Country,Libya,198
+2046,2008,Country,Lithuania,969
+2047,2008,Country,Luxembourg,17
+2048,2008,Country,Macau,181
+2049,2008,Country,Macedonia,756
+2050,2008,Country,Madagascar,43
+2051,2008,Country,Malawi,64
+2052,2008,Country,Malaysia,1705
+2053,2008,Country,Mali,124
+2054,2008,Country,Malta,71
+2055,2008,Country,Marshall Islands,12
+2056,2008,Country,Mauritania,122
+2057,2008,Country,Mauritius,70
+2058,2008,Country,Mexico,231815
+2059,2008,Country,"Micronesia, Federated States",62
+2060,2008,Country,Moldova,1328
+2061,2008,Country,Mongolia,129
+2062,2008,Country,Montenegro,32
+2063,2008,Country,Montserrat,87
+2064,2008,Country,Morocco,3383
+2065,2008,Country,Mozambique,73
+2066,2008,Country,Namibia,38
+2067,2008,Country,Nepal,953
+2068,2008,Country,Netherlands,1219
+2069,2008,Country,Netherlands Antilles,43
+2070,2008,Country,New Zealand,649
+2071,2008,Country,Nicaragua,17954
+2072,2008,Country,Niger,73
+2073,2008,Country,Nigeria,8597
+2074,2008,Country,Norway,153
+2075,2008,Country,Oman,33
+2076,2008,Country,Pakistan,11813
+2077,2008,Country,Palau,62
+2078,2008,Country,Panama,2870
+2079,2008,Country,Papua New Guinea,14
+2080,2008,Country,Paraguay,386
+2081,2008,Country,Peru,15016
+2082,2008,Country,Philippines,58792
+2083,2008,Country,Poland,14237
+2084,2008,Country,Portugal,3988
+2085,2008,Country,Qatar,85
+2086,2008,Country,Romania,4515
+2087,2008,Country,Russia,10778
+2088,2008,Country,Rwanda,101
+2089,2008,Country,Saint Kitts-Nevis,529
+2090,2008,Country,Saint Lucia,779
+2091,2008,Country,Saint Vincent and the Grenadines,623
+2092,2008,Country,Samoa,204
+2093,2008,Country,Saudi Arabia,615
+2094,2008,Country,Senegal,566
+2095,2008,Country,Serbia,3
+2096,2008,Country,Serbia and Montenegro 2,3582
+2097,2008,Country,Seychelles,26
+2098,2008,Country,Sierra Leone,2018
+2099,2008,Country,Singapore,433
+2100,2008,Country,Slovakia,498
+2101,2008,Country,Slovenia,80
+2102,2008,Country,Somalia,3816
+2103,2008,Country,South Africa,2980
+2104,2008,Country,Soviet Union (former),3538
+2105,2008,Country,Spain,1958
+2106,2008,Country,Sri Lanka,1377
+2107,2008,Country,Sudan,2893
+2108,2008,Country,Suriname,202
+2109,2008,Country,Swaziland,8
+2110,2008,Country,Sweden,1207
+2111,2008,Country,Switzerland,658
+2112,2008,Country,Syria,2105
+2113,2008,Country,Taiwan,8711
+2114,2008,Country,Tajikistan,168
+2115,2008,Country,Tanzania,464
+2116,2008,Country,Thailand,6930
+2117,2008,Country,Togo,673
+2118,2008,Country,Tonga,421
+2119,2008,Country,Trinidad and Tobago,7305
+2120,2008,Country,Tunisia,390
+2121,2008,Country,Turkey,2771
+2122,2008,Country,Turkmenistan,99
+2123,2008,Country,Turks and Caicos Islands,33
+2124,2008,Country,Uganda,541
+2125,2008,Country,Ukraine,10992
+2126,2008,Country,United Arab Emirates,328
+2127,2008,Country,United Kingdom,12095
+2128,2008,Country,United States,67
+2129,2008,Country,Uruguay,924
+2130,2008,Country,Uzbekistan,1377
+2131,2008,Country,Venezuela,6557
+2132,2008,Country,Vietnam,39584
+2133,2008,Country,British Virgin Islands,67
+2134,2008,Country,Yemen,1080
+2135,2008,Country,Zambia,290
+2136,2008,Country,Zimbabwe,413
+2137,2008,Country,All other countries,59
+2138,2008,Country,Unknown,1134
+2139,2008,Country,Cape Verde,0
+2140,2009,Region,Africa,"60,383"
+2141,2009,Region,Asia,"276,375"
+2142,2009,Region,Europe,"90,214"
+2143,2009,Region,North America,"250,209"
+2144,2009,Region,Oceania,"3,928"
+2145,2009,Region,South America,"61,666"
+2146,2009,Region,Unknown,940
+2147,2009,Country,Afghanistan,"2,588"
+2148,2009,Country,Albania,"3,483"
+2149,2009,Country,Algeria,"1,024"
+2150,2009,Country,American Samoa,265
+2151,2009,Country,Angola,95
+2152,2009,Country,Anguilla,29
+2153,2009,Country,Antigua-Barbuda,456
+2154,2009,Country,Argentina,"3,153"
+2155,2009,Country,Armenia,"2,021"
+2156,2009,Country,Aruba,37
+2157,2009,Country,Australia,"1,392"
+2158,2009,Country,Austria,303
+2159,2009,Country,Azerbaijan,"1,005"
+2160,2009,Country,Bahamas,569
+2161,2009,Country,Bahrain,91
+2162,2009,Country,Bangladesh,"6,644"
+2163,2009,Country,Barbados,878
+2164,2009,Country,Belarus,"1,583"
+2165,2009,Country,Belgium,673
+2166,2009,Country,Belize,854
+2167,2009,Country,Benin,119
+2168,2009,Country,Bermuda,80
+2169,2009,Country,Bhutan,17
+2170,2009,Country,Bolivia,"1,700"
+2171,2009,Country,Bosnia-Herzegovina,"4,544"
+2172,2009,Country,Botswana,17
+2173,2009,Country,Brazil,"7,960"
+2174,2009,Country,Brunei,14
+2175,2009,Country,Bulgaria,"3,211"
+2176,2009,Country,Burkina Faso,90
+2177,2009,Country,Burma,"1,447"
+2178,2009,Country,Burundi,90
+2179,2009,Country,Cabo Verde,903
+2180,2009,Country,Cambodia,"4,673"
+2181,2009,Country,Cameroon,"1,098"
+2182,2009,Country,Canada,"9,753"
+2183,2009,Country,Cayman Islands,22
+2184,2009,Country,Central African Republic,22
+2185,2009,Country,Chad,27
+2186,2009,Country,Chile,"1,585"
+2187,2009,Country,"China, People's Republic","37,130"
+2188,2009,Country,Colombia,"16,593"
+2189,2009,Country,"Congo, Democratic Republic",349
+2190,2009,Country,"Congo, Republic",308
+2191,2009,Country,Costa Rica,"1,517"
+2192,2009,Country,Cote d'Ivoire,589
+2193,2009,Country,Croatia,718
+2194,2009,Country,Cuba,"24,891"
+2195,2009,Country,Curacao,X
+2196,2009,Country,Cyprus,160
+2197,2009,Country,Czechia,266
+2198,2009,Country,Czechoslovakia (former),503
+2199,2009,Country,Denmark,156
+2200,2009,Country,Djibouti,19
+2201,2009,Country,Dominica,672
+2202,2009,Country,Dominican Republic,"20,778"
+2203,2009,Country,Ecuador,"7,609"
+2204,2009,Country,Egypt,"5,224"
+2205,2009,Country,El Salvador,"18,927"
+2206,2009,Country,Equatorial Guinea,D
+2207,2009,Country,Eritrea,760
+2208,2009,Country,Estonia,209
+2209,2009,Country,Ethiopia,"8,698"
+2210,2009,Country,Fiji,998
+2211,2009,Country,Finland,385
+2212,2009,Country,France,"2,529"
+2213,2009,Country,French Polynesia,12
+2214,2009,Country,Gabon,35
+2215,2009,Country,Gambia,419
+2216,2009,Country,Georgia,864
+2217,2009,Country,Germany,"4,564"
+2218,2009,Country,Ghana,"4,819"
+2219,2009,Country,Greece,"1,067"
+2220,2009,Country,Grenada,683
+2221,2009,Country,Guatemala,"8,619"
+2222,2009,Country,Guinea,304
+2223,2009,Country,Guinea-Bissau,17
+2224,2009,Country,Guyana,"6,840"
+2225,2009,Country,Haiti,"13,290"
+2226,2009,Country,Honduras,"4,858"
+2227,2009,Country,Hong Kong,"3,329"
+2228,2009,Country,Hungary,"1,142"
+2229,2009,Country,Iceland,75
+2230,2009,Country,India,"52,889"
+2231,2009,Country,Indonesia,"1,794"
+2232,2009,Country,Iran,"12,069"
+2233,2009,Country,Iraq,"4,197"
+2234,2009,Country,Ireland,"1,296"
+2235,2009,Country,Israel,"3,410"
+2236,2009,Country,Italy,"2,552"
+2237,2009,Country,Jamaica,"15,098"
+2238,2009,Country,Japan,"2,192"
+2239,2009,Country,Jordan,"2,891"
+2240,2009,Country,Kazakhstan,917
+2241,2009,Country,Kenya,"2,546"
+2242,2009,Country,"Korea, North",28
+2243,2009,Country,South Korea,"17,576"
+2244,2009,Country,Kosovo,397
+2245,2009,Country,Kuwait,"1,152"
+2246,2009,Country,Kyrgyzstan,338
+2247,2009,Country,Laos,"3,081"
+2248,2009,Country,Latvia,404
+2249,2009,Country,Lebanon,"3,787"
+2250,2009,Country,Lesotho,D
+2251,2009,Country,Liberia,"2,767"
+2252,2009,Country,Libya,249
+2253,2009,Country,Lithuania,786
+2254,2009,Country,Luxembourg,22
+2255,2009,Country,Macau,158
+2256,2009,Country,Macedonia,741
+2257,2009,Country,Madagascar,49
+2258,2009,Country,Malawi,58
+2259,2009,Country,Malaysia,"1,178"
+2260,2009,Country,Mali,149
+2261,2009,Country,Malta,72
+2262,2009,Country,Marshall Islands,29
+2263,2009,Country,Mauritania,175
+2264,2009,Country,Mauritius,89
+2265,2009,Country,Mexico,"111,630"
+2266,2009,Country,"Micronesia, Federated States",125
+2267,2009,Country,Moldova,"1,239"
+2268,2009,Country,Mongolia,137
+2269,2009,Country,Montenegro,140
+2270,2009,Country,Montserrat,59
+2271,2009,Country,Morocco,"4,556"
+2272,2009,Country,Mozambique,47
+2273,2009,Country,Namibia,27
+2274,2009,Country,Nepal,"1,632"
+2275,2009,Country,Netherlands,889
+2276,2009,Country,Netherlands Antilles,40
+2277,2009,Country,New Zealand,562
+2278,2009,Country,Nicaragua,"7,445"
+2279,2009,Country,Niger,67
+2280,2009,Country,Nigeria,"9,298"
+2281,2009,Country,Norway,128
+2282,2009,Country,Oman,32
+2283,2009,Country,Pakistan,"12,528"
+2284,2009,Country,Palau,54
+2285,2009,Country,Panama,"1,694"
+2286,2009,Country,Papua New Guinea,18
+2287,2009,Country,Paraguay,310
+2288,2009,Country,Peru,"10,349"
+2289,2009,Country,Philippines,"38,934"
+2290,2009,Country,Poland,"10,604"
+2291,2009,Country,Portugal,"2,143"
+2292,2009,Country,Qatar,106
+2293,2009,Country,Romania,"4,388"
+2294,2009,Country,Russia,"9,490"
+2295,2009,Country,Rwanda,161
+2296,2009,Country,Saint Kitts-Nevis,389
+2297,2009,Country,Saint Lucia,583
+2298,2009,Country,Saint Vincent and the Grenadines,513
+2299,2009,Country,Samoa,185
+2300,2009,Country,Saudi Arabia,768
+2301,2009,Country,Senegal,640
+2302,2009,Country,Serbia,15
+2303,2009,Country,Serbia and Montenegro 2,"2,597"
+2304,2009,Country,Seychelles,19
+2305,2009,Country,Sierra Leone,"1,868"
+2306,2009,Country,Singapore,403
+2307,2009,Country,Sint Maarten,X
+2308,2009,Country,Slovakia,488
+2309,2009,Country,Slovenia,64
+2310,2009,Country,Somalia,"3,818"
+2311,2009,Country,South Africa,"2,436"
+2312,2009,Country,South Sudan,X
+2313,2009,Country,Soviet Union (former),"4,263"
+2314,2009,Country,Spain,"1,420"
+2315,2009,Country,Sri Lanka,"1,367"
+2316,2009,Country,Sudan,"2,855"
+2317,2009,Country,Suriname,198
+2318,2009,Country,Swaziland,21
+2319,2009,Country,Sweden,940
+2320,2009,Country,Switzerland,529
+2321,2009,Country,Syria,"2,484"
+2322,2009,Country,Taiwan,"7,606"
+2323,2009,Country,Tajikistan,156
+2324,2009,Country,Tanzania,567
+2325,2009,Country,Thailand,"4,962"
+2326,2009,Country,Togo,"1,132"
+2327,2009,Country,Tonga,269
+2328,2009,Country,Trinidad and Tobago,"5,726"
+2329,2009,Country,Tunisia,479
+2330,2009,Country,Turkey,"3,219"
+2331,2009,Country,Turkmenistan,91
+2332,2009,Country,Turks and Caicos Islands,21
+2333,2009,Country,Uganda,489
+2334,2009,Country,Ukraine,"9,123"
+2335,2009,Country,United Arab Emirates,383
+2336,2009,Country,United Kingdom,"10,060"
+2337,2009,Country,United States,51
+2338,2009,Country,Uruguay,634
+2339,2009,Country,Uzbekistan,"1,513"
+2340,2009,Country,Venezuela,"4,735"
+2341,2009,Country,Vietnam,"31,168"
+2342,2009,Country,British Virgin Islands,43
+2343,2009,Country,Yemen,"1,243"
+2344,2009,Country,Zambia,289
+2345,2009,Country,Zimbabwe,489
+2346,2009,Country,All other countries,48
+2347,2009,Country,Unknown,940
+2348,2009,Country,Cape Verde,0
+2349,2010,Region,Africa,64022
+2350,2010,Region,Asia,251598
+2351,2010,Region,Europe,78011
+2352,2010,Region,North America,163836
+2353,2010,Region,Oceania,3646
+2354,2010,Region,South America,58474
+2355,2010,Region,Unknown,326
+2356,2010,Country,Afghanistan,2230
+2357,2010,Country,Albania,5088
+2358,2010,Country,Algeria,808
+2359,2010,Country,American Samoa,232
+2360,2010,Country,Angola,135
+2361,2010,Country,Anguilla,26
+2362,2010,Country,Antigua-Barbuda,341
+2363,2010,Country,Argentina,3140
+2364,2010,Country,Armenia,3168
+2365,2010,Country,Aruba,27
+2366,2010,Country,Australia,1202
+2367,2010,Country,Austria,277
+2368,2010,Country,Azerbaijan,1233
+2369,2010,Country,Bahamas,475
+2370,2010,Country,Bahrain,102
+2371,2010,Country,Bangladesh,6979
+2372,2010,Country,Barbados,535
+2373,2010,Country,Belarus,1523
+2374,2010,Country,Belgium,523
+2375,2010,Country,Belize,556
+2376,2010,Country,Benin,127
+2377,2010,Country,Bermuda,65
+2378,2010,Country,Bhutan,50
+2379,2010,Country,Bolivia,1185
+2380,2010,Country,Bosnia-Herzegovina,4012
+2381,2010,Country,Botswana,24
+2382,2010,Country,Brazil,8867
+2383,2010,Country,Brunei,15
+2384,2010,Country,Bulgaria,3123
+2385,2010,Country,Burkina Faso,112
+2386,2010,Country,Burma,2399
+2387,2010,Country,Burundi,145
+2388,2010,Country,Cabo Verde,675
+2389,2010,Country,Cambodia,3756
+2390,2010,Country,Cameroon,1519
+2391,2010,Country,Canada,8539
+2392,2010,Country,Cayman Islands,17
+2393,2010,Country,Central African Republic,27
+2394,2010,Country,Chad,39
+2395,2010,Country,Chile,1249
+2396,2010,Country,"China, People's Republic",33969
+2397,2010,Country,Colombia,18417
+2398,2010,Country,"Congo, Democratic Republic",744
+2399,2010,Country,"Congo, Republic",313
+2400,2010,Country,Costa Rica,1114
+2401,2010,Country,Cote d'Ivoire,549
+2402,2010,Country,Croatia,589
+2403,2010,Country,Cuba,14050
+2404,2010,Country,Cyprus,118
+2405,2010,Country,Czechia,367
+2406,2010,Country,Czechoslovakia (former),372
+2407,2010,Country,Denmark,123
+2408,2010,Country,Djibouti,17
+2409,2010,Country,Dominica,543
+2410,2010,Country,Dominican Republic,15451
+2411,2010,Country,Ecuador,5931
+2412,2010,Country,Egypt,5860
+2413,2010,Country,El Salvador,10343
+2414,2010,Country,Equatorial Guinea,12
+2415,2010,Country,Eritrea,991
+2416,2010,Country,Estonia,185
+2417,2010,Country,Ethiopia,8903
+2418,2010,Country,Fiji,1140
+2419,2010,Country,Finland,286
+2420,2010,Country,France,2263
+2421,2010,Country,French Polynesia,12
+2422,2010,Country,Gabon,43
+2423,2010,Country,Gambia,444
+2424,2010,Country,Georgia,1107
+2425,2010,Country,Germany,4001
+2426,2010,Country,Ghana,4211
+2427,2010,Country,Greece,800
+2428,2010,Country,Grenada,446
+2429,2010,Country,Guatemala,5375
+2430,2010,Country,Guinea,418
+2431,2010,Country,Guinea-Bissau,17
+2432,2010,Country,Guyana,4932
+2433,2010,Country,Haiti,12291
+2434,2010,Country,Honduras,3056
+2435,2010,Country,Hong Kong,2198
+2436,2010,Country,Hungary,916
+2437,2010,Country,Iceland,51
+2438,2010,Country,India,61142
+2439,2010,Country,Indonesia,2765
+2440,2010,Country,Iran,9337
+2441,2010,Country,Iraq,3489
+2442,2010,Country,Ireland,1178
+2443,2010,Country,Israel,3205
+2444,2010,Country,Italy,2064
+2445,2010,Country,Jamaica,12070
+2446,2010,Country,Japan,1622
+2447,2010,Country,Jordan,2436
+2448,2010,Country,Kazakhstan,763
+2449,2010,Country,Kenya,3043
+2450,2010,Country,"Korea, North",13
+2451,2010,Country,South Korea,11170
+2452,2010,Country,Kosovo,590
+2453,2010,Country,Kuwait,919
+2454,2010,Country,Kyrgyzstan,380
+2455,2010,Country,Laos,2743
+2456,2010,Country,Latvia,342
+2457,2010,Country,Lebanon,3266
+2458,2010,Country,Lesotho,7
+2459,2010,Country,Liberia,3360
+2460,2010,Country,Libya,173
+2461,2010,Country,Lithuania,843
+2462,2010,Country,Luxembourg,18
+2463,2010,Country,Macau,94
+2464,2010,Country,Macedonia,682
+2465,2010,Country,Madagascar,55
+2466,2010,Country,Malawi,80
+2467,2010,Country,Malaysia,1211
+2468,2010,Country,Mali,200
+2469,2010,Country,Malta,46
+2470,2010,Country,Marshall Islands,21
+2471,2010,Country,Mauritania,281
+2472,2010,Country,Mauritius,79
+2473,2010,Country,Mexico,67062
+2474,2010,Country,"Micronesia, Federated States",84
+2475,2010,Country,Moldova,1235
+2476,2010,Country,Mongolia,157
+2477,2010,Country,Montenegro,167
+2478,2010,Country,Montserrat,57
+2479,2010,Country,Morocco,3710
+2480,2010,Country,Mozambique,41
+2481,2010,Country,Namibia,38
+2482,2010,Country,Nepal,2185
+2483,2010,Country,Netherlands,691
+2484,2010,Country,Netherlands Antilles,56
+2485,2010,Country,New Zealand,495
+2486,2010,Country,Nicaragua,4047
+2487,2010,Country,Niger,89
+2488,2010,Country,Nigeria,9126
+2489,2010,Country,Norway,91
+2490,2010,Country,Oman,30
+2491,2010,Country,Pakistan,11601
+2492,2010,Country,Palau,71
+2493,2010,Country,Panama,1215
+2494,2010,Country,Papua New Guinea,16
+2495,2010,Country,Paraguay,212
+2496,2010,Country,Peru,8551
+2497,2010,Country,Philippines,35465
+2498,2010,Country,Poland,8038
+2499,2010,Country,Portugal,1266
+2500,2010,Country,Qatar,115
+2501,2010,Country,Romania,4385
+2502,2010,Country,Russia,7566
+2503,2010,Country,Rwanda,278
+2504,2010,Country,Saint Kitts-Nevis,305
+2505,2010,Country,Saint Lucia,554
+2506,2010,Country,Saint Vincent and the Grenadines,375
+2507,2010,Country,Samoa,154
+2508,2010,Country,Saudi Arabia,739
+2509,2010,Country,Senegal,633
+2510,2010,Country,Serbia,27
+2511,2010,Country,Serbia and Montenegro 2,2653
+2512,2010,Country,Seychelles,12
+2513,2010,Country,Sierra Leone,1878
+2514,2010,Country,Singapore,336
+2515,2010,Country,Slovakia,485
+2516,2010,Country,Slovenia,64
+2517,2010,Country,Somalia,5728
+2518,2010,Country,South Africa,2550
+2519,2010,Country,Soviet Union (former),2954
+2520,2010,Country,Spain,1115
+2521,2010,Country,Sri Lanka,1421
+2522,2010,Country,Sudan,2885
+2523,2010,Country,Suriname,161
+2524,2010,Country,Swaziland,8
+2525,2010,Country,Sweden,774
+2526,2010,Country,Switzerland,484
+2527,2010,Country,Syria,2029
+2528,2010,Country,Taiwan,5621
+2529,2010,Country,Tajikistan,178
+2530,2010,Country,Tanzania,466
+2531,2010,Country,Thailand,4112
+2532,2010,Country,Togo,1253
+2533,2010,Country,Tonga,208
+2534,2010,Country,Trinidad and Tobago,4740
+2535,2010,Country,Tunisia,407
+2536,2010,Country,Turkey,3213
+2537,2010,Country,Turkmenistan,138
+2538,2010,Country,Turks and Caicos Islands,20
+2539,2010,Country,Uganda,637
+2540,2010,Country,Ukraine,7345
+2541,2010,Country,United Arab Emirates,404
+2542,2010,Country,United Kingdom,8401
+2543,2010,Country,United States,45
+2544,2010,Country,Uruguay,585
+2545,2010,Country,Uzbekistan,1472
+2546,2010,Country,Venezuela,5243
+2547,2010,Country,Vietnam,19313
+2548,2010,Country,British Virgin Islands,36
+2549,2010,Country,Yemen,1186
+2550,2010,Country,Zambia,317
+2551,2010,Country,Zimbabwe,546
+2552,2010,Country,All other countries,37
+2553,2010,Country,Unknown,326
+2554,2010,Country,Cape Verde,0
+2555,2011,Region,Africa,69738
+2556,2011,Region,Asia,249940
+2557,2011,Region,Europe,82209
+2558,2011,Region,North America,217750
+2559,2011,Region,Oceania,3734
+2560,2011,Region,South America,70485
+2561,2011,Region,Unknown,337
+2562,2011,Country,Afghanistan,1998
+2563,2011,Country,Albania,4267
+2564,2011,Country,Algeria,773
+2565,2011,Country,American Samoa,205
+2566,2011,Country,Angola,162
+2567,2011,Country,Anguilla,38
+2568,2011,Country,Antigua-Barbuda,386
+2569,2011,Country,Argentina,3870
+2570,2011,Country,Armenia,3965
+2571,2011,Country,Aruba,40
+2572,2011,Country,Australia,1291
+2573,2011,Country,Austria,271
+2574,2011,Country,Azerbaijan,1153
+2575,2011,Country,Bahamas,609
+2576,2011,Country,Bahrain,80
+2577,2011,Country,Bangladesh,7325
+2578,2011,Country,Barbados,648
+2579,2011,Country,Belarus,1814
+2580,2011,Country,Belgium,525
+2581,2011,Country,Belize,742
+2582,2011,Country,Benin,183
+2583,2011,Country,Bermuda,58
+2584,2011,Country,Bhutan,55
+2585,2011,Country,Bolivia,1446
+2586,2011,Country,Bosnia-Herzegovina,4259
+2587,2011,Country,Botswana,9
+2588,2011,Country,Brazil,10251
+2589,2011,Country,Brunei,11
+2590,2011,Country,Bulgaria,3103
+2591,2011,Country,Burkina Faso,163
+2592,2011,Country,Burma,2321
+2593,2011,Country,Burundi,168
+2594,2011,Country,Cabo Verde,974
+2595,2011,Country,Cambodia,4589
+2596,2011,Country,Cameroon,2172
+2597,2011,Country,Canada,9318
+2598,2011,Country,Cayman Islands,15
+2599,2011,Country,Central African Republic,34
+2600,2011,Country,Chad,50
+2601,2011,Country,Chile,1527
+2602,2011,Country,"China, People's Republic",32864
+2603,2011,Country,Colombia,22693
+2604,2011,Country,"Congo, Democratic Republic",908
+2605,2011,Country,"Congo, Republic",345
+2606,2011,Country,Costa Rica,1511
+2607,2011,Country,Cote d'Ivoire,694
+2608,2011,Country,Croatia,569
+2609,2011,Country,Cuba,21071
+2610,2011,Country,Curacao,0
+2611,2011,Country,Cyprus,115
+2612,2011,Country,Czechia,485
+2613,2011,Country,Czechoslovakia (former),310
+2614,2011,Country,Denmark,124
+2615,2011,Country,Djibouti,22
+2616,2011,Country,Dominica,594
+2617,2011,Country,Dominican Republic,20508
+2618,2011,Country,Ecuador,6929
+2619,2011,Country,Egypt,5848
+2620,2011,Country,El Salvador,13834
+2621,2011,Country,Equatorial Guinea,9
+2622,2011,Country,Eritrea,985
+2623,2011,Country,Estonia,217
+2624,2011,Country,Ethiopia,8519
+2625,2011,Country,Fiji,1118
+2626,2011,Country,Finland,344
+2627,2011,Country,France,2527
+2628,2011,Country,French Polynesia,14
+2629,2011,Country,Gabon,53
+2630,2011,Country,Gambia,505
+2631,2011,Country,Georgia,1253
+2632,2011,Country,Germany,4461
+2633,2011,Country,Ghana,4690
+2634,2011,Country,Greece,844
+2635,2011,Country,Grenada,528
+2636,2011,Country,Guatemala,7285
+2637,2011,Country,Guinea,575
+2638,2011,Country,Guinea-Bissau,29
+2639,2011,Country,Guyana,5413
+2640,2011,Country,Haiti,14191
+2641,2011,Country,Honduras,3980
+2642,2011,Country,Hong Kong,2184
+2643,2011,Country,Hungary,953
+2644,2011,Country,Iceland,76
+2645,2011,Country,India,45985
+2646,2011,Country,Indonesia,2345
+2647,2011,Country,Iran,9286
+2648,2011,Country,Iraq,3360
+2649,2011,Country,Ireland,1171
+2650,2011,Country,Israel,3153
+2651,2011,Country,Italy,2231
+2652,2011,Country,Jamaica,14591
+2653,2011,Country,Japan,1744
+2654,2011,Country,Jordan,2345
+2655,2011,Country,Kazakhstan,891
+2656,2011,Country,Kenya,3621
+2657,2011,Country,"Korea, North",13
+2658,2011,Country,South Korea,12664
+2659,2011,Country,Kosovo,465
+2660,2011,Country,Kuwait,869
+2661,2011,Country,Kyrgyzstan,440
+2662,2011,Country,Laos,5452
+2663,2011,Country,Latvia,401
+2664,2011,Country,Lebanon,3127
+2665,2011,Country,Lesotho,11
+2666,2011,Country,Liberia,3794
+2667,2011,Country,Libya,180
+2668,2011,Country,Lithuania,973
+2669,2011,Country,Luxembourg,18
+2670,2011,Country,Macau,86
+2671,2011,Country,Macedonia,578
+2672,2011,Country,Madagascar,44
+2673,2011,Country,Malawi,86
+2674,2011,Country,Malaysia,1137
+2675,2011,Country,Mali,274
+2676,2011,Country,Malta,54
+2677,2011,Country,Marshall Islands,32
+2678,2011,Country,Mauritania,405
+2679,2011,Country,Mauritius,64
+2680,2011,Country,Mexico,94783
+2681,2011,Country,"Micronesia, Federated States",74
+2682,2011,Country,Moldova,1398
+2683,2011,Country,Mongolia,242
+2684,2011,Country,Montenegro,205
+2685,2011,Country,Montserrat,63
+2686,2011,Country,Morocco,3656
+2687,2011,Country,Mozambique,49
+2688,2011,Country,Namibia,29
+2689,2011,Country,Nepal,2235
+2690,2011,Country,Netherlands,778
+2691,2011,Country,Netherlands Antilles,60
+2692,2011,Country,New Zealand,480
+2693,2011,Country,Nicaragua,5092
+2694,2011,Country,Niger,124
+2695,2011,Country,Nigeria,9344
+2696,2011,Country,Norway,90
+2697,2011,Country,Oman,37
+2698,2011,Country,Pakistan,10655
+2699,2011,Country,Palau,68
+2700,2011,Country,Panama,1340
+2701,2011,Country,Papua New Guinea,17
+2702,2011,Country,Paraguay,289
+2703,2011,Country,Peru,10266
+2704,2011,Country,Philippines,42520
+2705,2011,Country,Poland,8844
+2706,2011,Country,Portugal,1426
+2707,2011,Country,Qatar,101
+2708,2011,Country,Romania,4314
+2709,2011,Country,Russia,8257
+2710,2011,Country,Rwanda,265
+2711,2011,Country,Saint Kitts-Nevis,306
+2712,2011,Country,Saint Lucia,600
+2713,2011,Country,Saint Vincent and the Grenadines,416
+2714,2011,Country,Samoa,172
+2715,2011,Country,Saudi Arabia,814
+2716,2011,Country,Senegal,752
+2717,2011,Country,Serbia,85
+2718,2011,Country,Serbia and Montenegro 2,2185
+2719,2011,Country,Seychelles,19
+2720,2011,Country,Sierra Leone,1831
+2721,2011,Country,Singapore,311
+2722,2011,Country,Sint Maarten,0
+2723,2011,Country,Slovakia,421
+2724,2011,Country,Slovenia,57
+2725,2011,Country,Somalia,7971
+2726,2011,Country,South Africa,2566
+2727,2011,Country,South Sudan,0
+2728,2011,Country,Soviet Union (former),2812
+2729,2011,Country,Spain,1253
+2730,2011,Country,Sri Lanka,1334
+2731,2011,Country,Sudan,2444
+2732,2011,Country,Suriname,194
+2733,2011,Country,Swaziland,15
+2734,2011,Country,Sweden,872
+2735,2011,Country,Switzerland,427
+2736,2011,Country,Syria,1981
+2737,2011,Country,Taiwan,5065
+2738,2011,Country,Tajikistan,155
+2739,2011,Country,Tanzania,516
+2740,2011,Country,Thailand,5299
+2741,2011,Country,Togo,1523
+2742,2011,Country,Tonga,251
+2743,2011,Country,Trinidad and Tobago,5014
+2744,2011,Country,Tunisia,377
+2745,2011,Country,Turkey,3100
+2746,2011,Country,Turkmenistan,146
+2747,2011,Country,Turks and Caicos Islands,36
+2748,2011,Country,Uganda,838
+2749,2011,Country,Ukraine,8489
+2750,2011,Country,United Arab Emirates,425
+2751,2011,Country,United Kingdom,9246
+2752,2011,Country,United States,45
+2753,2011,Country,Uruguay,751
+2754,2011,Country,Uzbekistan,2463
+2755,2011,Country,Venezuela,6856
+2756,2011,Country,Vietnam,20922
+2757,2011,Country,British Virgin Islands,48
+2758,2011,Country,Yemen,1320
+2759,2011,Country,Zambia,337
+2760,2011,Country,Zimbabwe,715
+2761,2011,Country,All other countries,45
+2762,2011,Country,Unknown,337
+2763,2011,Country,Cape Verde,0
+2764,2012,Region,Africa,74775
+2765,2012,Region,Asia,257035
+2766,2012,Region,Europe,82714
+2767,2012,Region,North America,261673
+2768,2012,Region,Oceania,3886
+2769,2012,Region,South America,76992
+2770,2012,Region,Unknown,359
+2771,2012,Country,Afghanistan,1758
+2772,2012,Country,Albania,3615
+2773,2012,Country,Algeria,891
+2774,2012,Country,American Samoa,180
+2775,2012,Country,Angola,166
+2776,2012,Country,Anguilla,30
+2777,2012,Country,Antigua-Barbuda,390
+2778,2012,Country,Argentina,3909
+2779,2012,Country,Armenia,3285
+2780,2012,Country,Aruba,27
+2781,2012,Country,Australia,1312
+2782,2012,Country,Austria,241
+2783,2012,Country,Azerbaijan,958
+2784,2012,Country,Bahamas,647
+2785,2012,Country,Bahrain,93
+2786,2012,Country,Bangladesh,8417
+2787,2012,Country,Barbados,687
+2788,2012,Country,Belarus,1896
+2789,2012,Country,Belgium,522
+2790,2012,Country,Belize,817
+2791,2012,Country,Benin,210
+2792,2012,Country,Bermuda,65
+2793,2012,Country,Bhutan,42
+2794,2012,Country,Bolivia,2063
+2795,2012,Country,Bosnia-Herzegovina,4904
+2796,2012,Country,Botswana,11
+2797,2012,Country,Brazil,9884
+2798,2012,Country,Brunei,17
+2799,2012,Country,Bulgaria,2964
+2800,2012,Country,Burkina Faso,166
+2801,2012,Country,Burma,2384
+2802,2012,Country,Burundi,209
+2803,2012,Country,Cabo Verde,1037
+2804,2012,Country,Cambodia,6189
+2805,2012,Country,Cameroon,2459
+2806,2012,Country,Canada,9077
+2807,2012,Country,Cayman Islands,29
+2808,2012,Country,Central African Republic,56
+2809,2012,Country,Chad,69
+2810,2012,Country,Chile,1586
+2811,2012,Country,"China, People's Republic",31868
+2812,2012,Country,Colombia,23972
+2813,2012,Country,"Congo, Democratic Republic",1173
+2814,2012,Country,"Congo, Republic",381
+2815,2012,Country,Costa Rica,1597
+2816,2012,Country,Cote d'Ivoire,868
+2817,2012,Country,Croatia,725
+2818,2012,Country,Cuba,31244
+2819,2012,Country,Curacao,0
+2820,2012,Country,Cyprus,92
+2821,2012,Country,Czechia,477
+2822,2012,Country,Czechoslovakia (former),291
+2823,2012,Country,Denmark,133
+2824,2012,Country,Djibouti,26
+2825,2012,Country,Dominica,597
+2826,2012,Country,Dominican Republic,33351
+2827,2012,Country,Ecuador,8783
+2828,2012,Country,Egypt,6191
+2829,2012,Country,El Salvador,16685
+2830,2012,Country,Equatorial Guinea,19
+2831,2012,Country,Eritrea,1059
+2832,2012,Country,Estonia,234
+2833,2012,Country,Ethiopia,8803
+2834,2012,Country,Fiji,1134
+2835,2012,Country,Finland,329
+2836,2012,Country,France,2358
+2837,2012,Country,French Polynesia,15
+2838,2012,Country,Gabon,80
+2839,2012,Country,Gambia,556
+2840,2012,Country,Georgia,1271
+2841,2012,Country,Germany,4192
+2842,2012,Country,Ghana,5344
+2843,2012,Country,Greece,867
+2844,2012,Country,Grenada,683
+2845,2012,Country,Guatemala,8797
+2846,2012,Country,Guinea,787
+2847,2012,Country,Guinea-Bissau,30
+2848,2012,Country,Guyana,6201
+2849,2012,Country,Haiti,19114
+2850,2012,Country,Honduras,5294
+2851,2012,Country,Hong Kong,1980
+2852,2012,Country,Hungary,1014
+2853,2012,Country,Iceland,97
+2854,2012,Country,India,42928
+2855,2012,Country,Indonesia,2123
+2856,2012,Country,Iran,9627
+2857,2012,Country,Iraq,3523
+2858,2012,Country,Ireland,1239
+2859,2012,Country,Israel,2859
+2860,2012,Country,Italy,2234
+2861,2012,Country,Jamaica,15531
+2862,2012,Country,Japan,1663
+2863,2012,Country,Jordan,2436
+2864,2012,Country,Kazakhstan,1040
+2865,2012,Country,Kenya,4170
+2866,2012,Country,"Korea, North",19
+2867,2012,Country,South Korea,13790
+2868,2012,Country,Kosovo,510
+2869,2012,Country,Kuwait,820
+2870,2012,Country,Kyrgyzstan,420
+2871,2012,Country,Laos,7027
+2872,2012,Country,Latvia,392
+2873,2012,Country,Lebanon,2914
+2874,2012,Country,Lesotho,7
+2875,2012,Country,Liberia,4322
+2876,2012,Country,Libya,195
+2877,2012,Country,Lithuania,938
+2878,2012,Country,Luxembourg,23
+2879,2012,Country,Macau,106
+2880,2012,Country,Macedonia,635
+2881,2012,Country,Madagascar,37
+2882,2012,Country,Malawi,85
+2883,2012,Country,Malaysia,1150
+2884,2012,Country,Mali,288
+2885,2012,Country,Malta,44
+2886,2012,Country,Marshall Islands,21
+2887,2012,Country,Mauritania,495
+2888,2012,Country,Mauritius,57
+2889,2012,Country,Mexico,102181
+2890,2012,Country,"Micronesia, Federated States",73
+2891,2012,Country,Moldova,1602
+2892,2012,Country,Mongolia,286
+2893,2012,Country,Montenegro,227
+2894,2012,Country,Montserrat,51
+2895,2012,Country,Morocco,3872
+2896,2012,Country,Mozambique,48
+2897,2012,Country,Namibia,42
+2898,2012,Country,Nepal,2448
+2899,2012,Country,Netherlands,919
+2900,2012,Country,Netherlands Antilles,76
+2901,2012,Country,New Zealand,563
+2902,2012,Country,Nicaragua,5870
+2903,2012,Country,Niger,143
+2904,2012,Country,Nigeria,9322
+2905,2012,Country,Norway,87
+2906,2012,Country,Oman,48
+2907,2012,Country,Pakistan,11150
+2908,2012,Country,Palau,72
+2909,2012,Country,Panama,1532
+2910,2012,Country,Papua New Guinea,16
+2911,2012,Country,Paraguay,338
+2912,2012,Country,Peru,11814
+2913,2012,Country,Philippines,44958
+2914,2012,Country,Poland,8715
+2915,2012,Country,Portugal,1607
+2916,2012,Country,Qatar,101
+2917,2012,Country,Romania,4253
+2918,2012,Country,Russia,8154
+2919,2012,Country,Rwanda,285
+2920,2012,Country,Saint Kitts-Nevis,319
+2921,2012,Country,Saint Lucia,724
+2922,2012,Country,Saint Vincent and the Grenadines,511
+2923,2012,Country,Samoa,178
+2924,2012,Country,Saudi Arabia,779
+2925,2012,Country,Senegal,790
+2926,2012,Country,Serbia,109
+2927,2012,Country,Serbia and Montenegro 2,2012
+2928,2012,Country,Seychelles,8
+2929,2012,Country,Sierra Leone,1861
+2930,2012,Country,Singapore,293
+2931,2012,Country,Sint Maarten,0
+2932,2012,Country,Slovakia,401
+2933,2012,Country,Slovenia,64
+2934,2012,Country,Somalia,9286
+2935,2012,Country,South Africa,2294
+2936,2012,Country,South Sudan,81
+2937,2012,Country,Soviet Union (former),2610
+2938,2012,Country,Spain,1242
+2939,2012,Country,Sri Lanka,1146
+2940,2012,Country,Sudan,2291
+2941,2012,Country,Suriname,189
+2942,2012,Country,Swaziland,10
+2943,2012,Country,Sweden,798
+2944,2012,Country,Switzerland,427
+2945,2012,Country,Syria,1814
+2946,2012,Country,Taiwan,4573
+2947,2012,Country,Tajikistan,142
+2948,2012,Country,Tanzania,543
+2949,2012,Country,Thailand,6585
+2950,2012,Country,Togo,1448
+2951,2012,Country,Tonga,306
+2952,2012,Country,Trinidad and Tobago,5596
+2953,2012,Country,Tunisia,345
+2954,2012,Country,Turkey,3329
+2955,2012,Country,Turkmenistan,136
+2956,2012,Country,Turks and Caicos Islands,49
+2957,2012,Country,Uganda,820
+2958,2012,Country,Ukraine,9459
+2959,2012,Country,United Arab Emirates,431
+2960,2012,Country,United Kingdom,9145
+2961,2012,Country,United States,60
+2962,2012,Country,Uruguay,849
+2963,2012,Country,Uzbekistan,3071
+2964,2012,Country,Venezuela,7404
+2965,2012,Country,Vietnam,23490
+2966,2012,Country,British Virgin Islands,41
+2967,2012,Country,Yemen,1452
+2968,2012,Country,Zambia,338
+2969,2012,Country,Zimbabwe,691
+2970,2012,Country,All other countries,40
+2971,2012,Country,Unknown,359
+2972,2012,Country,Cape Verde,0
+2973,2013,Region,Africa,71872
+2974,2013,Region,Asia,275700
+2975,2013,Region,Europe,80333
+2976,2013,Region,North America,271807
+2977,2013,Region,Oceania,3849
+2978,2013,Region,South America,76167
+2979,2013,Region,Unknown,201
+2980,2013,Country,Afghanistan,2074
+2981,2013,Country,Albania,3538
+2982,2013,Country,Algeria,841
+2983,2013,Country,American Samoa,265
+2984,2013,Country,Angola,143
+2985,2013,Country,Anguilla,26
+2986,2013,Country,Antigua-Barbuda,366
+2987,2013,Country,Argentina,4177
+2988,2013,Country,Armenia,3203
+2989,2013,Country,Aruba,42
+2990,2013,Country,Australia,1296
+2991,2013,Country,Austria,248
+2992,2013,Country,Azerbaijan,786
+2993,2013,Country,Bahamas,681
+2994,2013,Country,Bahrain,76
+2995,2013,Country,Bangladesh,9571
+2996,2013,Country,Barbados,683
+2997,2013,Country,Belarus,1797
+2998,2013,Country,Belgium,513
+2999,2013,Country,Belize,966
+3000,2013,Country,Benin,206
+3001,2013,Country,Bermuda,59
+3002,2013,Country,Bhutan,275
+3003,2013,Country,Bolivia,1961
+3004,2013,Country,Bosnia-Herzegovina,3662
+3005,2013,Country,Botswana,29
+3006,2013,Country,Brazil,9565
+3007,2013,Country,Brunei,11
+3008,2013,Country,Bulgaria,2646
+3009,2013,Country,Burkina Faso,230
+3010,2013,Country,Burma,3489
+3011,2013,Country,Burundi,379
+3012,2013,Country,Cabo Verde,1014
+3013,2013,Country,Cambodia,4161
+3014,2013,Country,Cameroon,2541
+3015,2013,Country,Canada,8690
+3016,2013,Country,Cayman Islands,17
+3017,2013,Country,Central African Republic,54
+3018,2013,Country,Chad,64
+3019,2013,Country,Chile,1649
+3020,2013,Country,"China, People's Republic",35387
+3021,2013,Country,Colombia,22196
+3022,2013,Country,"Congo, Democratic Republic",1250
+3023,2013,Country,"Congo, Republic",402
+3024,2013,Country,Costa Rica,1661
+3025,2013,Country,Cote d'Ivoire,958
+3026,2013,Country,Croatia,561
+3027,2013,Country,Cuba,30482
+3028,2013,Country,Curacao,0
+3029,2013,Country,Cyprus,112
+3030,2013,Country,Czechia,562
+3031,2013,Country,Czechoslovakia (former),232
+3032,2013,Country,Denmark,127
+3033,2013,Country,Djibouti,39
+3034,2013,Country,Dominica,642
+3035,2013,Country,Dominican Republic,39590
+3036,2013,Country,Ecuador,9470
+3037,2013,Country,Egypt,6213
+3038,2013,Country,El Salvador,18401
+3039,2013,Country,Equatorial Guinea,14
+3040,2013,Country,Eritrea,1145
+3041,2013,Country,Estonia,213
+3042,2013,Country,Ethiopia,8323
+3043,2013,Country,Fiji,1003
+3044,2013,Country,Finland,300
+3045,2013,Country,France,2534
+3046,2013,Country,French Polynesia,8
+3047,2013,Country,Gabon,72
+3048,2013,Country,Gambia,573
+3049,2013,Country,Georgia,1205
+3050,2013,Country,Germany,4066
+3051,2013,Country,Ghana,5105
+3052,2013,Country,Greece,938
+3053,2013,Country,Grenada,717
+3054,2013,Country,Guatemala,9530
+3055,2013,Country,Guinea,958
+3056,2013,Country,Guinea-Bissau,24
+3057,2013,Country,Guyana,6295
+3058,2013,Country,Haiti,23480
+3059,2013,Country,Honduras,5462
+3060,2013,Country,Hong Kong,2093
+3061,2013,Country,Hungary,984
+3062,2013,Country,Iceland,75
+3063,2013,Country,India,49897
+3064,2013,Country,Indonesia,2190
+3065,2013,Country,Iran,11623
+3066,2013,Country,Iraq,7771
+3067,2013,Country,Ireland,1295
+3068,2013,Country,Israel,3466
+3069,2013,Country,Italy,2355
+3070,2013,Country,Jamaica,16442
+3071,2013,Country,Japan,1837
+3072,2013,Country,Jordan,2816
+3073,2013,Country,Kazakhstan,909
+3074,2013,Country,Kenya,4257
+3075,2013,Country,"Korea, North",27
+3076,2013,Country,South Korea,15786
+3077,2013,Country,Kosovo,487
+3078,2013,Country,Kuwait,920
+3079,2013,Country,Kyrgyzstan,395
+3080,2013,Country,Laos,3932
+3081,2013,Country,Latvia,364
+3082,2013,Country,Lebanon,3002
+3083,2013,Country,Lesotho,10
+3084,2013,Country,Liberia,3923
+3085,2013,Country,Libya,206
+3086,2013,Country,Lithuania,933
+3087,2013,Country,Luxembourg,16
+3088,2013,Country,Macau,97
+3089,2013,Country,Macedonia,665
+3090,2013,Country,Madagascar,50
+3091,2013,Country,Malawi,83
+3092,2013,Country,Malaysia,1169
+3093,2013,Country,Mali,332
+3094,2013,Country,Malta,59
+3095,2013,Country,Marshall Islands,17
+3096,2013,Country,Mauritania,520
+3097,2013,Country,Mauritius,67
+3098,2013,Country,Mexico,99385
+3099,2013,Country,"Micronesia, Federated States",96
+3100,2013,Country,Moldova,1594
+3101,2013,Country,Mongolia,347
+3102,2013,Country,Montenegro,231
+3103,2013,Country,Montserrat,65
+3104,2013,Country,Morocco,3768
+3105,2013,Country,Mozambique,51
+3106,2013,Country,Namibia,40
+3107,2013,Country,Nepal,2711
+3108,2013,Country,Netherlands,786
+3109,2013,Country,Netherlands Antilles,82
+3110,2013,Country,New Zealand,482
+3111,2013,Country,Nicaragua,5064
+3112,2013,Country,Niger,167
+3113,2013,Country,Nigeria,9545
+3114,2013,Country,Norway,80
+3115,2013,Country,Oman,39
+3116,2013,Country,Pakistan,12948
+3117,2013,Country,Palau,64
+3118,2013,Country,Panama,1598
+3119,2013,Country,Papua New Guinea,20
+3120,2013,Country,Paraguay,331
+3121,2013,Country,Peru,11782
+3122,2013,Country,Philippines,43489
+3123,2013,Country,Poland,8697
+3124,2013,Country,Portugal,1585
+3125,2013,Country,Qatar,107
+3126,2013,Country,Romania,4050
+3127,2013,Country,Russia,8222
+3128,2013,Country,Rwanda,374
+3129,2013,Country,Saint Kitts-Nevis,315
+3130,2013,Country,Saint Lucia,856
+3131,2013,Country,Saint Vincent and the Grenadines,574
+3132,2013,Country,Samoa,206
+3133,2013,Country,Saudi Arabia,927
+3134,2013,Country,Senegal,869
+3135,2013,Country,Serbia,117
+3136,2013,Country,Serbia and Montenegro 2,1830
+3137,2013,Country,Seychelles,15
+3138,2013,Country,Sierra Leone,1613
+3139,2013,Country,Singapore,263
+3140,2013,Country,Sint Maarten,0
+3141,2013,Country,Slovakia,413
+3142,2013,Country,Slovenia,58
+3143,2013,Country,Somalia,6875
+3144,2013,Country,South Africa,2283
+3145,2013,Country,South Sudan,139
+3146,2013,Country,Soviet Union (former),2807
+3147,2013,Country,Spain,1367
+3148,2013,Country,Sri Lanka,1258
+3149,2013,Country,Sudan,1924
+3150,2013,Country,Suriname,160
+3151,2013,Country,Swaziland,15
+3152,2013,Country,Sweden,783
+3153,2013,Country,Switzerland,452
+3154,2013,Country,Syria,2196
+3155,2013,Country,Taiwan,5255
+3156,2013,Country,Tajikistan,168
+3157,2013,Country,Tanzania,647
+3158,2013,Country,Thailand,5544
+3159,2013,Country,Togo,1380
+3160,2013,Country,Tonga,371
+3161,2013,Country,Trinidad and Tobago,5784
+3162,2013,Country,Tunisia,362
+3163,2013,Country,Turkey,3390
+3164,2013,Country,Turkmenistan,160
+3165,2013,Country,Turks and Caicos Islands,47
+3166,2013,Country,Uganda,763
+3167,2013,Country,Ukraine,8624
+3168,2013,Country,United Arab Emirates,499
+3169,2013,Country,United Kingdom,9459
+3170,2013,Country,United States,55
+3171,2013,Country,Uruguay,933
+3172,2013,Country,Uzbekistan,2482
+3173,2013,Country,Venezuela,7648
+3174,2013,Country,Vietnam,24277
+3175,2013,Country,British Virgin Islands,45
+3176,2013,Country,Yemen,1355
+3177,2013,Country,Zambia,352
+3178,2013,Country,Zimbabwe,658
+3179,2013,Country,All other countries,41
+3180,2013,Country,Unknown,201
+3181,2013,Country,Cape Verde,0
+3182,2014,Region,Africa,62175
+3183,2014,Region,Asia,233163
+3184,2014,Region,Europe,71325
+3185,2014,Region,North America,222547
+3186,2014,Region,Oceania,3399
+3187,2014,Region,South America,60665
+3188,2014,Region,Unknown,142
+3189,2014,Country,Afghanistan,1853
+3190,2014,Country,Albania,3131
+3191,2014,Country,Algeria,928
+3192,2014,Country,American Samoa,187
+3193,2014,Country,Angola,145
+3194,2014,Country,Anguilla,18
+3195,2014,Country,Antigua-Barbuda,358
+3196,2014,Country,Argentina,3683
+3197,2014,Country,Armenia,2488
+3198,2014,Country,Aruba,28
+3199,2014,Country,Australia,1159
+3200,2014,Country,Austria,223
+3201,2014,Country,Azerbaijan,585
+3202,2014,Country,Bahamas,545
+3203,2014,Country,Bahrain,90
+3204,2014,Country,Bangladesh,7475
+3205,2014,Country,Barbados,550
+3206,2014,Country,Belarus,1437
+3207,2014,Country,Belgium,408
+3208,2014,Country,Belize,773
+3209,2014,Country,Benin,229
+3210,2014,Country,Bermuda,67
+3211,2014,Country,Bhutan,2639
+3212,2014,Country,Bolivia,1527
+3213,2014,Country,Bosnia-Herzegovina,2509
+3214,2014,Country,Botswana,24
+3215,2014,Country,Brazil,8625
+3216,2014,Country,Brunei,15
+3217,2014,Country,Bulgaria,2226
+3218,2014,Country,Burkina Faso,235
+3219,2014,Country,Burma,4225
+3220,2014,Country,Burundi,415
+3221,2014,Country,Cabo Verde,979
+3222,2014,Country,Cambodia,2866
+3223,2014,Country,Cameroon,2120
+3224,2014,Country,Canada,8385
+3225,2014,Country,Cayman Islands,13
+3226,2014,Country,Central African Republic,44
+3227,2014,Country,Chad,74
+3228,2014,Country,Chile,1435
+3229,2014,Country,"China, People's Republic",30284
+3230,2014,Country,Colombia,16478
+3231,2014,Country,"Congo, Democratic Republic",1246
+3232,2014,Country,"Congo, Republic",438
+3233,2014,Country,Costa Rica,1461
+3234,2014,Country,Cote d'Ivoire,910
+3235,2014,Country,Croatia,428
+3236,2014,Country,Cuba,24092
+3237,2014,Country,Curacao,11
+3238,2014,Country,Cyprus,112
+3239,2014,Country,Czechia,565
+3240,2014,Country,Czechoslovakia (former),303
+3241,2014,Country,Denmark,129
+3242,2014,Country,Djibouti,26
+3243,2014,Country,Dominica,520
+3244,2014,Country,Dominican Republic,23775
+3245,2014,Country,Ecuador,6952
+3246,2014,Country,Egypt,5094
+3247,2014,Country,El Salvador,15598
+3248,2014,Country,Equatorial Guinea,12
+3249,2014,Country,Eritrea,1045
+3250,2014,Country,Estonia,183
+3251,2014,Country,Ethiopia,7002
+3252,2014,Country,Fiji,770
+3253,2014,Country,Finland,274
+3254,2014,Country,France,2589
+3255,2014,Country,French Polynesia,20
+3256,2014,Country,Gabon,63
+3257,2014,Country,Gambia,510
+3258,2014,Country,Georgia,898
+3259,2014,Country,Germany,4375
+3260,2014,Country,Ghana,5108
+3261,2014,Country,Greece,780
+3262,2014,Country,Grenada,544
+3263,2014,Country,Guatemala,8549
+3264,2014,Country,Guinea,908
+3265,2014,Country,Guinea-Bissau,27
+3266,2014,Country,Guyana,4327
+3267,2014,Country,Haiti,13676
+3268,2014,Country,Honduras,4433
+3269,2014,Country,Hong Kong,1801
+3270,2014,Country,Hungary,891
+3271,2014,Country,Iceland,70
+3272,2014,Country,India,37854
+3273,2014,Country,Indonesia,1568
+3274,2014,Country,Iran,9620
+3275,2014,Country,Iraq,12377
+3276,2014,Country,Ireland,1413
+3277,2014,Country,Israel,3015
+3278,2014,Country,Italy,2313
+3279,2014,Country,Jamaica,13547
+3280,2014,Country,Japan,1635
+3281,2014,Country,Jordan,2427
+3282,2014,Country,Kazakhstan,789
+3283,2014,Country,Kenya,3885
+3284,2014,Country,"Korea, North",24
+3285,2014,Country,South Korea,13587
+3286,2014,Country,Kosovo,392
+3287,2014,Country,Kuwait,791
+3288,2014,Country,Kyrgyzstan,305
+3289,2014,Country,Laos,2564
+3290,2014,Country,Latvia,366
+3291,2014,Country,Lebanon,2528
+3292,2014,Country,Lesotho,8
+3293,2014,Country,Liberia,3035
+3294,2014,Country,Libya,228
+3295,2014,Country,Lithuania,744
+3296,2014,Country,Luxembourg,34
+3297,2014,Country,Macau,102
+3298,2014,Country,Macedonia,625
+3299,2014,Country,Madagascar,50
+3300,2014,Country,Malawi,76
+3301,2014,Country,Malaysia,1052
+3302,2014,Country,Mali,352
+3303,2014,Country,Malta,40
+3304,2014,Country,Marshall Islands,20
+3305,2014,Country,Mauritania,376
+3306,2014,Country,Mauritius,69
+3307,2014,Country,Mexico,94889
+3308,2014,Country,"Micronesia, Federated States",62
+3309,2014,Country,Moldova,1279
+3310,2014,Country,Mongolia,335
+3311,2014,Country,Montenegro,202
+3312,2014,Country,Montserrat,47
+3313,2014,Country,Morocco,3538
+3314,2014,Country,Mozambique,34
+3315,2014,Country,Namibia,31
+3316,2014,Country,Nepal,2888
+3317,2014,Country,Netherlands,665
+3318,2014,Country,Netherlands Antilles,43
+3319,2014,Country,New Zealand,453
+3320,2014,Country,Nicaragua,3775
+3321,2014,Country,Niger,161
+3322,2014,Country,Nigeria,8667
+3323,2014,Country,Norway,92
+3324,2014,Country,Oman,41
+3325,2014,Country,Pakistan,11210
+3326,2014,Country,Palau,50
+3327,2014,Country,Panama,1277
+3328,2014,Country,Papua New Guinea,7
+3329,2014,Country,Paraguay,256
+3330,2014,Country,Peru,9572
+3331,2014,Country,Philippines,34591
+3332,2014,Country,Poland,8304
+3333,2014,Country,Portugal,1587
+3334,2014,Country,Qatar,69
+3335,2014,Country,Romania,3267
+3336,2014,Country,Russia,6824
+3337,2014,Country,Rwanda,302
+3338,2014,Country,Saint Kitts-Nevis,270
+3339,2014,Country,Saint Lucia,635
+3340,2014,Country,Saint Vincent and the Grenadines,405
+3341,2014,Country,Samoa,181
+3342,2014,Country,Saudi Arabia,795
+3343,2014,Country,Senegal,806
+3344,2014,Country,Serbia,276
+3345,2014,Country,Serbia and Montenegro 2,1338
+3346,2014,Country,Seychelles,9
+3347,2014,Country,Sierra Leone,1406
+3348,2014,Country,Singapore,258
+3349,2014,Country,Sint Maarten,7
+3350,2014,Country,Slovakia,317
+3351,2014,Country,Slovenia,52
+3352,2014,Country,Somalia,4097
+3353,2014,Country,South Africa,2083
+3354,2014,Country,South Sudan,132
+3355,2014,Country,Soviet Union (former),2334
+3356,2014,Country,Spain,1326
+3357,2014,Country,Sri Lanka,1104
+3358,2014,Country,Sudan,1482
+3359,2014,Country,Suriname,127
+3360,2014,Country,Swaziland,7
+3361,2014,Country,Sweden,724
+3362,2014,Country,Switzerland,388
+3363,2014,Country,Syria,1832
+3364,2014,Country,Taiwan,4326
+3365,2014,Country,Tajikistan,146
+3366,2014,Country,Tanzania,525
+3367,2014,Country,Thailand,4805
+3368,2014,Country,Togo,1141
+3369,2014,Country,Tonga,473
+3370,2014,Country,Trinidad and Tobago,4147
+3371,2014,Country,Tunisia,310
+3372,2014,Country,Turkey,2925
+3373,2014,Country,Turkmenistan,110
+3374,2014,Country,Turks and Caicos Islands,26
+3375,2014,Country,Uganda,724
+3376,2014,Country,Ukraine,6984
+3377,2014,Country,United Arab Emirates,435
+3378,2014,Country,United Kingdom,8906
+3379,2014,Country,United States,31
+3380,2014,Country,Uruguay,812
+3381,2014,Country,Uzbekistan,1725
+3382,2014,Country,Venezuela,6871
+3383,2014,Country,Vietnam,18837
+3384,2014,Country,British Virgin Islands,49
+3385,2014,Country,Yemen,1160
+3386,2014,Country,Zambia,318
+3387,2014,Country,Zimbabwe,734
+3388,2014,Country,All other countries,41
+3389,2014,Country,Unknown,142
+3390,2014,Country,Cape Verde,0
+3391,2015,Region,Africa,71492
+3392,2015,Region,Asia,261374
+3393,2015,Region,Europe,78074
+3394,2015,Region,North America,247492
+3395,2015,Region,Oceania,3811
+3396,2015,Region,South America,67927
+3397,2015,Region,Unknown,89
+3398,2015,Country,Afghanistan,1589
+3399,2015,Country,Albania,3237
+3400,2015,Country,Algeria,943
+3401,2015,Country,American Samoa,296
+3402,2015,Country,Angola,132
+3403,2015,Country,Anguilla,31
+3404,2015,Country,Antigua-Barbuda,381
+3405,2015,Country,Argentina,3886
+3406,2015,Country,Armenia,2874
+3407,2015,Country,Aruba,37
+3408,2015,Country,Australia,1379
+3409,2015,Country,Austria,207
+3410,2015,Country,Azerbaijan,568
+3411,2015,Country,Bahamas,570
+3412,2015,Country,Bahrain,79
+3413,2015,Country,Bangladesh,9750
+3414,2015,Country,Barbados,646
+3415,2015,Country,Belarus,1710
+3416,2015,Country,Belgium,505
+3417,2015,Country,Belize,851
+3418,2015,Country,Benin,310
+3419,2015,Country,Bermuda,66
+3420,2015,Country,Bhutan,4562
+3421,2015,Country,Bolivia,1689
+3422,2015,Country,Bosnia-Herzegovina,3304
+3423,2015,Country,Botswana,28
+3424,2015,Country,Brazil,10516
+3425,2015,Country,Brunei,13
+3426,2015,Country,Bulgaria,2336
+3427,2015,Country,Burkina Faso,307
+3428,2015,Country,Burma,6045
+3429,2015,Country,Burundi,437
+3430,2015,Country,Cabo Verde,1054
+3431,2015,Country,Cambodia,2878
+3432,2015,Country,Cameroon,3170
+3433,2015,Country,Canada,9492
+3434,2015,Country,Cayman Islands,30
+3435,2015,Country,Central African Republic,52
+3436,2015,Country,Chad,84
+3437,2015,Country,Chile,1486
+3438,2015,Country,"China, People's Republic",31241
+3439,2015,Country,Colombia,17207
+3440,2015,Country,"Congo, Democratic Republic",1490
+3441,2015,Country,"Congo, Republic",473
+3442,2015,Country,Costa Rica,1633
+3443,2015,Country,Cote d'Ivoire,1078
+3444,2015,Country,Croatia,563
+3445,2015,Country,Cuba,25770
+3446,2015,Country,Curacao,17
+3447,2015,Country,Cyprus,107
+3448,2015,Country,Czechia,733
+3449,2015,Country,Czechoslovakia (former),371
+3450,2015,Country,Denmark,243
+3451,2015,Country,Djibouti,26
+3452,2015,Country,Dominica,653
+3453,2015,Country,Dominican Republic,26665
+3454,2015,Country,Ecuador,7664
+3455,2015,Country,Egypt,5693
+3456,2015,Country,El Salvador,16930
+3457,2015,Country,Equatorial Guinea,14
+3458,2015,Country,Eritrea,1494
+3459,2015,Country,Estonia,208
+3460,2015,Country,Ethiopia,8312
+3461,2015,Country,Fiji,850
+3462,2015,Country,Finland,301
+3463,2015,Country,France,2784
+3464,2015,Country,French Polynesia,14
+3465,2015,Country,Gabon,89
+3466,2015,Country,Gambia,685
+3467,2015,Country,Georgia,1027
+3468,2015,Country,Germany,4380
+3469,2015,Country,Ghana,6033
+3470,2015,Country,Greece,867
+3471,2015,Country,Grenada,664
+3472,2015,Country,Guatemala,9344
+3473,2015,Country,Guinea,999
+3474,2015,Country,Guinea-Bissau,29
+3475,2015,Country,Guyana,5162
+3476,2015,Country,Haiti,14053
+3477,2015,Country,Honduras,5039
+3478,2015,Country,Hong Kong,1716
+3479,2015,Country,Hungary,941
+3480,2015,Country,Iceland,88
+3481,2015,Country,India,42213
+3482,2015,Country,Indonesia,1743
+3483,2015,Country,Iran,10344
+3484,2015,Country,Iraq,14899
+3485,2015,Country,Ireland,1375
+3486,2015,Country,Israel,3182
+3487,2015,Country,Italy,2760
+3488,2015,Country,Jamaica,16566
+3489,2015,Country,Japan,1858
+3490,2015,Country,Jordan,2461
+3491,2015,Country,Kazakhstan,819
+3492,2015,Country,Kenya,4738
+3493,2015,Country,"Korea, North",23
+3494,2015,Country,South Korea,14230
+3495,2015,Country,Kosovo,547
+3496,2015,Country,Kuwait,819
+3497,2015,Country,Kyrgyzstan,418
+3498,2015,Country,Laos,2042
+3499,2015,Country,Latvia,392
+3500,2015,Country,Lebanon,2463
+3501,2015,Country,Lesotho,11
+3502,2015,Country,Liberia,3042
+3503,2015,Country,Libya,193
+3504,2015,Country,Lithuania,752
+3505,2015,Country,Luxembourg,20
+3506,2015,Country,Macau,109
+3507,2015,Country,Macedonia,611
+3508,2015,Country,Madagascar,65
+3509,2015,Country,Malawi,91
+3510,2015,Country,Malaysia,1113
+3511,2015,Country,Mali,405
+3512,2015,Country,Malta,50
+3513,2015,Country,Marshall Islands,22
+3514,2015,Country,Mauritania,355
+3515,2015,Country,Mauritius,60
+3516,2015,Country,Mexico,105958
+3517,2015,Country,"Micronesia, Federated States",85
+3518,2015,Country,Moldova,1681
+3519,2015,Country,Mongolia,324
+3520,2015,Country,Montenegro,209
+3521,2015,Country,Montserrat,43
+3522,2015,Country,Morocco,3805
+3523,2015,Country,Mozambique,43
+3524,2015,Country,Namibia,42
+3525,2015,Country,Nepal,4225
+3526,2015,Country,Netherlands,778
+3527,2015,Country,Netherlands Antilles,35
+3528,2015,Country,New Zealand,514
+3529,2015,Country,Nicaragua,3951
+3530,2015,Country,Niger,180
+3531,2015,Country,Nigeria,10363
+3532,2015,Country,Norway,80
+3533,2015,Country,Oman,47
+3534,2015,Country,Pakistan,11912
+3535,2015,Country,Palau,44
+3536,2015,Country,Panama,1412
+3537,2015,Country,Papua New Guinea,21
+3538,2015,Country,Paraguay,338
+3539,2015,Country,Peru,10701
+3540,2015,Country,Philippines,40815
+3541,2015,Country,Poland,7886
+3542,2015,Country,Portugal,1690
+3543,2015,Country,Qatar,75
+3544,2015,Country,Romania,3478
+3545,2015,Country,Russia,6552
+3546,2015,Country,Rwanda,300
+3547,2015,Country,Saint Kitts-Nevis,360
+3548,2015,Country,Saint Lucia,775
+3549,2015,Country,Saint Vincent and the Grenadines,467
+3550,2015,Country,Samoa,213
+3551,2015,Country,Saudi Arabia,796
+3552,2015,Country,Senegal,974
+3553,2015,Country,Serbia,522
+3554,2015,Country,Serbia and Montenegro 2,1297
+3555,2015,Country,Seychelles,7
+3556,2015,Country,Sierra Leone,1692
+3557,2015,Country,Singapore,285
+3558,2015,Country,Sint Maarten,17
+3559,2015,Country,Slovakia,443
+3560,2015,Country,Slovenia,61
+3561,2015,Country,Somalia,3691
+3562,2015,Country,South Africa,2538
+3563,2015,Country,South Sudan,131
+3564,2015,Country,Soviet Union (former),2372
+3565,2015,Country,Spain,1414
+3566,2015,Country,Sri Lanka,1246
+3567,2015,Country,Sudan,1740
+3568,2015,Country,Suriname,183
+3569,2015,Country,Swaziland,12
+3570,2015,Country,Sweden,885
+3571,2015,Country,Switzerland,411
+3572,2015,Country,Syria,2004
+3573,2015,Country,Taiwan,4420
+3574,2015,Country,Tajikistan,156
+3575,2015,Country,Tanzania,553
+3576,2015,Country,Thailand,5213
+3577,2015,Country,Togo,1171
+3578,2015,Country,Tonga,352
+3579,2015,Country,Trinidad and Tobago,4869
+3580,2015,Country,Tunisia,314
+3581,2015,Country,Turkey,3150
+3582,2015,Country,Turkmenistan,153
+3583,2015,Country,Turks and Caicos Islands,33
+3584,2015,Country,Uganda,817
+3585,2015,Country,Ukraine,8926
+3586,2015,Country,United Arab Emirates,443
+3587,2015,Country,United Kingdom,10095
+3588,2015,Country,United States,75
+3589,2015,Country,Uruguay,902
+3590,2015,Country,Uzbekistan,1660
+3591,2015,Country,Venezuela,8192
+3592,2015,Country,Vietnam,21976
+3593,2015,Country,British Virgin Islands,59
+3594,2015,Country,Yemen,1284
+3595,2015,Country,Zambia,370
+3596,2015,Country,Zimbabwe,852
+3597,2015,Country,All other countries,41
+3598,2015,Country,Unknown,89
+3599,2015,Country,Cape Verde,0
+3600,2016,Region,Africa,72338
+3601,2016,Region,Asia,271733
+3602,2016,Region,Europe,74344
+3603,2016,Region,North America,259845
+3604,2016,Region,Oceania,3953
+3605,2016,Region,South America,70821
+3606,2016,Region,Unknown,26
+3607,2016,Country,Afghanistan,1444
+3608,2016,Country,Albania,2813
+3609,2016,Country,Algeria,1035
+3610,2016,Country,American Samoa,285
+3611,2016,Country,Angola,131
+3612,2016,Country,Anguilla,16
+3613,2016,Country,Antigua-Barbuda,383
+3614,2016,Country,Argentina,4015
+3615,2016,Country,Armenia,2516
+3616,2016,Country,Aruba,28
+3617,2016,Country,Australia,1389
+3618,2016,Country,Austria,221
+3619,2016,Country,Azerbaijan,574
+3620,2016,Country,Bahamas,590
+3621,2016,Country,Bahrain,80
+3622,2016,Country,Bangladesh,9949
+3623,2016,Country,Barbados,651
+3624,2016,Country,Belarus,1518
+3625,2016,Country,Belgium,514
+3626,2016,Country,Belize,870
+3627,2016,Country,Benin,317
+3628,2016,Country,Bermuda,61
+3629,2016,Country,Bhutan,5563
+3630,2016,Country,Bolivia,1862
+3631,2016,Country,Bosnia-Herzegovina,2257
+3632,2016,Country,Botswana,29
+3633,2016,Country,Brazil,10268
+3634,2016,Country,Brunei,10
+3635,2016,Country,Bulgaria,2086
+3636,2016,Country,Burkina Faso,322
+3637,2016,Country,Burma,6956
+3638,2016,Country,Burundi,406
+3639,2016,Country,Cabo Verde,1207
+3640,2016,Country,Cambodia,2756
+3641,2016,Country,Cameroon,3088
+3642,2016,Country,Canada,9346
+3643,2016,Country,Cayman Islands,20
+3644,2016,Country,Central African Republic,80
+3645,2016,Country,Chad,105
+3646,2016,Country,Chile,1666
+3647,2016,Country,"China, People's Republic",35794
+3648,2016,Country,Colombia,18601
+3649,2016,Country,"Congo, Democratic Republic",1707
+3650,2016,Country,"Congo, Republic",395
+3651,2016,Country,Costa Rica,1862
+3652,2016,Country,Cote d'Ivoire,1127
+3653,2016,Country,Croatia,438
+3654,2016,Country,Cuba,32101
+3655,2016,Country,Curacao,13
+3656,2016,Country,Cyprus,105
+3657,2016,Country,Czechia,692
+3658,2016,Country,Czechoslovakia (former),344
+3659,2016,Country,Denmark,1193
+3660,2016,Country,Djibouti,52
+3661,2016,Country,Dominica,610
+3662,2016,Country,Dominican Republic,31320
+3663,2016,Country,Ecuador,8568
+3664,2016,Country,Egypt,5696
+3665,2016,Country,El Salvador,17213
+3666,2016,Country,Equatorial Guinea,18
+3667,2016,Country,Eritrea,1797
+3668,2016,Country,Estonia,183
+3669,2016,Country,Ethiopia,8725
+3670,2016,Country,Fiji,996
+3671,2016,Country,Finland,303
+3672,2016,Country,France,2841
+3673,2016,Country,French Polynesia,18
+3674,2016,Country,Gabon,83
+3675,2016,Country,Gambia,724
+3676,2016,Country,Georgia,988
+3677,2016,Country,Germany,4329
+3678,2016,Country,Ghana,6411
+3679,2016,Country,Greece,1013
+3680,2016,Country,Grenada,658
+3681,2016,Country,Guatemala,9764
+3682,2016,Country,Guinea,1077
+3683,2016,Country,Guinea-Bissau,20
+3684,2016,Country,Guyana,5284
+3685,2016,Country,Haiti,15276
+3686,2016,Country,Honduras,5819
+3687,2016,Country,Hong Kong,1662
+3688,2016,Country,Hungary,934
+3689,2016,Country,Iceland,88
+3690,2016,Country,India,46188
+3691,2016,Country,Indonesia,1641
+3692,2016,Country,Iran,9507
+3693,2016,Country,Iraq,12130
+3694,2016,Country,Ireland,1383
+3695,2016,Country,Israel,3071
+3696,2016,Country,Italy,2692
+3697,2016,Country,Jamaica,16772
+3698,2016,Country,Japan,1758
+3699,2016,Country,Jordan,2552
+3700,2016,Country,Kazakhstan,760
+3701,2016,Country,Kenya,4834
+3702,2016,Country,"Korea, North",16
+3703,2016,Country,South Korea,14347
+3704,2016,Country,Kosovo,530
+3705,2016,Country,Kuwait,790
+3706,2016,Country,Kyrgyzstan,408
+3707,2016,Country,Laos,1999
+3708,2016,Country,Latvia,356
+3709,2016,Country,Lebanon,2284
+3710,2016,Country,Lesotho,9
+3711,2016,Country,Liberia,3022
+3712,2016,Country,Libya,210
+3713,2016,Country,Lithuania,626
+3714,2016,Country,Luxembourg,18
+3715,2016,Country,Macau,101
+3716,2016,Country,Macedonia,704
+3717,2016,Country,Madagascar,75
+3718,2016,Country,Malawi,95
+3719,2016,Country,Malaysia,1189
+3720,2016,Country,Mali,456
+3721,2016,Country,Malta,43
+3722,2016,Country,Marshall Islands,27
+3723,2016,Country,Mauritania,323
+3724,2016,Country,Mauritius,63
+3725,2016,Country,Mexico,103550
+3726,2016,Country,"Micronesia, Federated States",67
+3727,2016,Country,Moldova,1689
+3728,2016,Country,Mongolia,437
+3729,2016,Country,Montenegro,222
+3730,2016,Country,Montserrat,45
+3731,2016,Country,Morocco,3684
+3732,2016,Country,Mozambique,51
+3733,2016,Country,Namibia,33
+3734,2016,Country,Nepal,5004
+3735,2016,Country,Netherlands,829
+3736,2016,Country,Netherlands Antilles,45
+3737,2016,Country,New Zealand,565
+3738,2016,Country,Nicaragua,4663
+3739,2016,Country,Niger,140
+3740,2016,Country,Nigeria,9520
+3741,2016,Country,Norway,93
+3742,2016,Country,Oman,58
+3743,2016,Country,Pakistan,11729
+3744,2016,Country,Palau,43
+3745,2016,Country,Panama,1458
+3746,2016,Country,Papua New Guinea,19
+3747,2016,Country,Paraguay,396
+3748,2016,Country,Peru,11319
+3749,2016,Country,Philippines,41285
+3750,2016,Country,Poland,7198
+3751,2016,Country,Portugal,1665
+3752,2016,Country,Qatar,98
+3753,2016,Country,Romania,3379
+3754,2016,Country,Russia,6067
+3755,2016,Country,Rwanda,369
+3756,2016,Country,Saint Kitts-Nevis,345
+3757,2016,Country,Saint Lucia,791
+3758,2016,Country,Saint Vincent and the Grenadines,500
+3759,2016,Country,Samoa,192
+3760,2016,Country,Saudi Arabia,869
+3761,2016,Country,Senegal,969
+3762,2016,Country,Serbia,532
+3763,2016,Country,Serbia and Montenegro 2,1164
+3764,2016,Country,Seychelles,17
+3765,2016,Country,Sierra Leone,1662
+3766,2016,Country,Singapore,308
+3767,2016,Country,Sint Maarten,33
+3768,2016,Country,Slovakia,428
+3769,2016,Country,Slovenia,63
+3770,2016,Country,Somalia,3998
+3771,2016,Country,South Africa,2197
+3772,2016,Country,South Sudan,101
+3773,2016,Country,Soviet Union (former),2268
+3774,2016,Country,Spain,1515
+3775,2016,Country,Sri Lanka,1497
+3776,2016,Country,Sudan,1776
+3777,2016,Country,Suriname,164
+3778,2016,Country,Swaziland,8
+3779,2016,Country,Sweden,795
+3780,2016,Country,Switzerland,375
+3781,2016,Country,Syria,2043
+3782,2016,Country,Taiwan,4043
+3783,2016,Country,Tajikistan,212
+3784,2016,Country,Tanzania,639
+3785,2016,Country,Thailand,5211
+3786,2016,Country,Togo,1099
+3787,2016,Country,Tonga,337
+3788,2016,Country,Trinidad and Tobago,4867
+3789,2016,Country,Tunisia,352
+3790,2016,Country,Turkey,3201
+3791,2016,Country,Turkmenistan,102
+3792,2016,Country,Turks and Caicos Islands,31
+3793,2016,Country,Uganda,823
+3794,2016,Country,Ukraine,8374
+3795,2016,Country,United Arab Emirates,473
+3796,2016,Country,United Kingdom,9562
+3797,2016,Country,United States,95
+3798,2016,Country,Uruguay,1044
+3799,2016,Country,Uzbekistan,1685
+3800,2016,Country,Venezuela,7633
+3801,2016,Country,Vietnam,24848
+3802,2016,Country,British Virgin Islands,46
+3803,2016,Country,Yemen,1490
+3804,2016,Country,Zambia,404
+3805,2016,Country,Zimbabwe,843
+3806,2016,Country,All other countries,42
+3807,2016,Country,Unknown,26
+3808,2016,Country,Cape Verde,0
+3809,2017,Region,Africa,61851
+3810,2017,Region,Asia,255306
+3811,2017,Region,Europe,65141
+3812,2017,Region,North America,258371
+3813,2017,Region,Oceania,3327
+3814,2017,Region,South America,63063
+3815,2017,Region,Unknown,206
+3816,2017,Country,Afghanistan,1414
+3817,2017,Country,Albania,2169
+3818,2017,Country,Algeria,949
+3819,2017,Country,American Samoa,216
+3820,2017,Country,Angola,125
+3821,2017,Country,Anguilla,20
+3822,2017,Country,Antigua-Barbuda,311
+3823,2017,Country,Argentina,3486
+3824,2017,Country,Armenia,1994
+3825,2017,Country,Aruba,32
+3826,2017,Country,Australia,1235
+3827,2017,Country,Austria,177
+3828,2017,Country,Azerbaijan,483
+3829,2017,Country,Bahamas,481
+3830,2017,Country,Bahrain,77
+3831,2017,Country,Bangladesh,8629
+3832,2017,Country,Barbados,645
+3833,2017,Country,Belarus,1313
+3834,2017,Country,Belgium,493
+3835,2017,Country,Belize,810
+3836,2017,Country,Benin,309
+3837,2017,Country,Bermuda,65
+3838,2017,Country,Bhutan,5557
+3839,2017,Country,Bolivia,1806
+3840,2017,Country,Bosnia-Herzegovina,1780
+3841,2017,Country,Botswana,27
+3842,2017,Country,Brazil,9701
+3843,2017,Country,Brunei,11
+3844,2017,Country,Bulgaria,1887
+3845,2017,Country,Burkina Faso,303
+3846,2017,Country,Burma,6825
+3847,2017,Country,Burundi,266
+3848,2017,Country,Cabo Verde,1355
+3849,2017,Country,Cambodia,2184
+3850,2017,Country,Cameroon,2416
+3851,2017,Country,Canada,7829
+3852,2017,Country,Cayman Islands,23
+3853,2017,Country,Central African Republic,61
+3854,2017,Country,Chad,78
+3855,2017,Country,Chile,1620
+3856,2017,Country,"China, People's Republic",37674
+3857,2017,Country,Colombia,16184
+3858,2017,Country,"Congo, Democratic Republic",1437
+3859,2017,Country,"Congo, Republic",322
+3860,2017,Country,Costa Rica,1720
+3861,2017,Country,Cote d'Ivoire,907
+3862,2017,Country,Croatia,351
+3863,2017,Country,Cuba,25961
+3864,2017,Country,Curacao,16
+3865,2017,Country,Cyprus,84
+3866,2017,Country,Czechia,595
+3867,2017,Country,Czechoslovakia (former),251
+3868,2017,Country,Denmark,769
+3869,2017,Country,Djibouti,48
+3870,2017,Country,Dominica,539
+3871,2017,Country,Dominican Republic,29734
+3872,2017,Country,Ecuador,7748
+3873,2017,Country,Egypt,5154
+3874,2017,Country,El Salvador,16941
+3875,2017,Country,Equatorial Guinea,8
+3876,2017,Country,Eritrea,1424
+3877,2017,Country,Estonia,157
+3878,2017,Country,Ethiopia,7370
+3879,2017,Country,Fiji,841
+3880,2017,Country,Finland,279
+3881,2017,Country,France,2812
+3882,2017,Country,French Polynesia,14
+3883,2017,Country,Gabon,67
+3884,2017,Country,Gambia,586
+3885,2017,Country,Georgia,889
+3886,2017,Country,Germany,3879
+3887,2017,Country,Ghana,5777
+3888,2017,Country,Greece,945
+3889,2017,Country,Grenada,629
+3890,2017,Country,Guatemala,9131
+3891,2017,Country,Guinea,957
+3892,2017,Country,Guinea-Bissau,25
+3893,2017,Country,Guyana,4527
+3894,2017,Country,Haiti,12794
+3895,2017,Country,Honduras,5310
+3896,2017,Country,Hong Kong,1623
+3897,2017,Country,Hungary,729
+3898,2017,Country,Iceland,83
+3899,2017,Country,India,50802
+3900,2017,Country,Indonesia,1566
+3901,2017,Country,Iran,8324
+3902,2017,Country,Iraq,7875
+3903,2017,Country,Ireland,1405
+3904,2017,Country,Israel,2466
+3905,2017,Country,Italy,2501
+3906,2017,Country,Jamaica,15087
+3907,2017,Country,Japan,1713
+3908,2017,Country,Jordan,2239
+3909,2017,Country,Kazakhstan,729
+3910,2017,Country,Kenya,4348
+3911,2017,Country,"Korea, North",15
+3912,2017,Country,South Korea,14643
+3913,2017,Country,Kosovo,410
+3914,2017,Country,Kuwait,677
+3915,2017,Country,Kyrgyzstan,412
+3916,2017,Country,Laos,1726
+3917,2017,Country,Latvia,306
+3918,2017,Country,Lebanon,2081
+3919,2017,Country,Lesotho,8
+3920,2017,Country,Liberia,2421
+3921,2017,Country,Libya,207
+3922,2017,Country,Lithuania,584
+3923,2017,Country,Luxembourg,14
+3924,2017,Country,Macau,70
+3925,2017,Country,Macedonia,582
+3926,2017,Country,Madagascar,61
+3927,2017,Country,Malawi,84
+3928,2017,Country,Malaysia,1170
+3929,2017,Country,Mali,391
+3930,2017,Country,Malta,47
+3931,2017,Country,Marshall Islands,16
+3932,2017,Country,Mauritania,288
+3933,2017,Country,Mauritius,65
+3934,2017,Country,Mexico,118559
+3935,2017,Country,"Micronesia, Federated States",53
+3936,2017,Country,Moldova,1442
+3937,2017,Country,Mongolia,416
+3938,2017,Country,Montenegro,187
+3939,2017,Country,Montserrat,45
+3940,2017,Country,Morocco,2943
+3941,2017,Country,Mozambique,38
+3942,2017,Country,Namibia,27
+3943,2017,Country,Nepal,4509
+3944,2017,Country,Netherlands,699
+3945,2017,Country,Netherlands Antilles,42
+3946,2017,Country,New Zealand,468
+3947,2017,Country,Nicaragua,4181
+3948,2017,Country,Niger,126
+3949,2017,Country,Nigeria,7652
+3950,2017,Country,Norway,60
+3951,2017,Country,Oman,30
+3952,2017,Country,Pakistan,10166
+3953,2017,Country,Palau,32
+3954,2017,Country,Panama,1266
+3955,2017,Country,Papua New Guinea,13
+3956,2017,Country,Paraguay,343
+3957,2017,Country,Peru,10014
+3958,2017,Country,Philippines,36828
+3959,2017,Country,Poland,5840
+3960,2017,Country,Portugal,1807
+3961,2017,Country,Qatar,95
+3962,2017,Country,Romania,2986
+3963,2017,Country,Russia,5534
+3964,2017,Country,Rwanda,267
+3965,2017,Country,Saint Kitts-Nevis,317
+3966,2017,Country,Saint Lucia,697
+3967,2017,Country,Saint Vincent and the Grenadines,507
+3968,2017,Country,Samoa,164
+3969,2017,Country,Saudi Arabia,872
+3970,2017,Country,Senegal,882
+3971,2017,Country,Serbia,476
+3972,2017,Country,Serbia and Montenegro 2,820
+3973,2017,Country,Seychelles,5
+3974,2017,Country,Sierra Leone,1328
+3975,2017,Country,Singapore,279
+3976,2017,Country,Sint Maarten,21
+3977,2017,Country,Slovakia,384
+3978,2017,Country,Slovenia,52
+3979,2017,Country,Somalia,3774
+3980,2017,Country,South Africa,1901
+3981,2017,Country,South Sudan,74
+3982,2017,Country,Soviet Union (former),2123
+3983,2017,Country,Spain,1469
+3984,2017,Country,Sri Lanka,1364
+3985,2017,Country,Sudan,1348
+3986,2017,Country,Suriname,143
+3987,2017,Country,Swaziland,16
+3988,2017,Country,Sweden,708
+3989,2017,Country,Switzerland,333
+3990,2017,Country,Syria,1789
+3991,2017,Country,Taiwan,4151
+3992,2017,Country,Tajikistan,222
+3993,2017,Country,Tanzania,547
+3994,2017,Country,Thailand,4672
+3995,2017,Country,Togo,907
+3996,2017,Country,Tonga,262
+3997,2017,Country,Trinidad and Tobago,4504
+3998,2017,Country,Tunisia,344
+3999,2017,Country,Turkey,3108
+4000,2017,Country,Turkmenistan,109
+4001,2017,Country,Turks and Caicos Islands,26
+4002,2017,Country,Uganda,742
+4003,2017,Country,Ukraine,6644
+4004,2017,Country,United Arab Emirates,475
+4005,2017,Country,United Kingdom,9049
+4006,2017,Country,United States,84
+4007,2017,Country,Uruguay,1028
+4008,2017,Country,Uzbekistan,1498
+4009,2017,Country,Venezuela,6463
+4010,2017,Country,Vietnam,19323
+4011,2017,Country,British Virgin Islands,42
+4012,2017,Country,Yemen,1445
+4013,2017,Country,Zambia,401
+4014,2017,Country,Zimbabwe,675
+4015,2017,Country,All other countries,38
+4016,2017,Country,Unknown,206
+4017,2017,Country,Cape Verde,0
